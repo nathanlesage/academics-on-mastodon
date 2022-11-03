@@ -25,6 +25,7 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
+- [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 
 ## Contribute
 

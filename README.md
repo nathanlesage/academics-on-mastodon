@@ -6,7 +6,7 @@
 
 ## Curated Account Lists
 
-The following are curated lists of academic accounts on Mastodon, sorted by discipline.
+The following are curated lists of academic accounts on Mastodon, sorted by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a PR!
 
 - [Sociology](https://trutzig89182.github.io/Mastodon-Sociologists/)
 - [Science and Technology Studies](https://jwyg.github.io/mastodon-sts/)

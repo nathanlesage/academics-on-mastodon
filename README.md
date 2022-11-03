@@ -2,6 +2,7 @@
 
 > This repository contains a collection of various lists of academics on Mastodon. These lists are curated by many awesome folks across various disciplines, so make sure to give them kudos as well! This list is a [continuation of the blog post by David Adler](https://www.perspektivbrocken.org/en/2022/11/03/academics-on-mastodon-lets-connect/).
 
+![Academics on Mastodon](./resources/hero.png)
 
 ## Curated Account Lists
 

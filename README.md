@@ -13,6 +13,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [History and Philsophy of Science](https://oliviodare.github.io/mastodon-hps/)
+- [Philosophy](https://eyssette.github.io/Mastodon-Philosophy/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
 
 ## Groups

@@ -29,6 +29,18 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 
+## Instances for academics
+
+If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
+
+- [Scholar.social](https://scholar.social/about) (invite only)
+- [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
+- [Social Sciences](https://sciences.social)
+- [Fediscience](https://fediscience.social)
+- [Mathstodon](https://mathstodon.xyz)
+- [Human Computer Interaction](https://hci.social)
+- [Open Educational Ressources](https://mastodon.oeru.org)
+
 ## Contribute
 
 Contributions welcome! Feel free to add academic lists or new groups and submit a PR! Just make sure your additions are on topic. Feel free to reach out to us: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz) and [@perspektivbrocken@social.tchncs.de](https://social.tchncs.de/@perspektivbrocken)

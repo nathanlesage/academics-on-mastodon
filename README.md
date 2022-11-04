@@ -1,6 +1,6 @@
 # Academics on Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> This repository contains a collection of various lists of academics on Mastodon. These lists are curated by many awesome folks across various disciplines, so make sure to give them kudos as well! This list is a [continuation of the blog post by David Adler](https://www.perspektivbrocken.org/en/2022/11/03/academics-on-mastodon-lets-connect/).
+> This repository contains a collection of various lists of academics on Mastodon. These lists are curated by many awesome folks across various disciplines, so make sure to give them kudos as well! We expect the lists to be generated with the consent from the accounts listed. If lists are generated without consent, please let us know, so we can drop them.
 
 ![Academics on Mastodon](./resources/hero.png)
 
@@ -13,6 +13,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [History and Philsophy of Science](https://oliviodare.github.io/mastodon-hps/)
+- [Philosophy](https://eyssette.github.io/Mastodon-Philosophy/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
 
 ## Groups

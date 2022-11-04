@@ -27,6 +27,9 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 
+## Servers/communities
+- [Academic and research servers](https://fediscience.org/server-list.html)
+
 ## Contribute
 
 Contributions welcome! Feel free to add academic lists or new groups and submit a PR! Just make sure your additions are on topic. Feel free to reach out to us: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz) and [@perspektivbrocken@social.tchncs.de](https://social.tchncs.de/@perspektivbrocken)

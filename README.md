@@ -10,6 +10,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 
 - [Sociology](https://trutzig89182.github.io/Mastodon-Sociologists/)
 - [Science and Technology Studies](https://jwyg.github.io/mastodon-sts/)
+- [Literary Studies](https://docs.google.com/spreadsheets/d/172wtP1Upmv-uUoIAqgTFwP2-_cPdM0Egz5xkTGBbjZU/htmlview) (Google Spreadsheet)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)

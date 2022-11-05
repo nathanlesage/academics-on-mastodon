@@ -10,14 +10,16 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 
 - [Sociology](https://trutzig89182.github.io/Mastodon-Sociologists/)
 - [Science and Technology Studies](https://jwyg.github.io/mastodon-sts/)
+- [Literary Studies](https://docs.google.com/spreadsheets/d/172wtP1Upmv-uUoIAqgTFwP2-_cPdM0Egz5xkTGBbjZU/htmlview) (Google Spreadsheet)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)
-- [Philosophy](https://eyssette.github.io/Mastodon-Philosophy/)
+- [Psychology](https://kaitclark.github.io/mastodon-psychology/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Technology Law & Policy](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucqnmve_ucl_ac_uk/ES11jfqXsNVNpd1roXFokNkBzRux6n2xThtV4CsgqpSj8g?e=rKrajY) (Spreadsheet) 
-- [Law](https://mastodon.social/@heidilifeldman/109264840290018068) (Spreadsheet) [info on how to add/remove](https://mastodon.social/@heidilifeldman/109264840290018068)
+- [Law](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/hzzbqzvq754NQzDv7))
+- [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)
 
 ## Groups
 
@@ -30,6 +32,7 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
+- [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 
 ## Servers/communities
 - [Academic and research servers](https://fediscience.org/server-list.html)

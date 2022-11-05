@@ -16,6 +16,8 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Philosophy](https://eyssette.github.io/Mastodon-Philosophy/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
+- [Technology Law & Policy](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucqnmve_ucl_ac_uk/ES11jfqXsNVNpd1roXFokNkBzRux6n2xThtV4CsgqpSj8g?e=rKrajY) (Spreadsheet) 
+- [Law](https://mastodon.social/@heidilifeldman/109264840290018068) (Spreadsheet) [info on how to add/remove](https://mastodon.social/@heidilifeldman/109264840290018068)
 
 ## Groups
 

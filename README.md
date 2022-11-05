@@ -17,6 +17,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Psychology](https://kaitclark.github.io/mastodon-psychology/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
+- [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
 - [Technology Law & Policy](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucqnmve_ucl_ac_uk/ES11jfqXsNVNpd1roXFokNkBzRux6n2xThtV4CsgqpSj8g?e=rKrajY) (Spreadsheet) 
 - [Law](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/hzzbqzvq754NQzDv7))
 - [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)

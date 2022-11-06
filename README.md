@@ -24,6 +24,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/) ([Form to add yourself](https://forms.gle/QdsUDAZfYZ6aTzYQ9))
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
+- [Genealogy](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/edit#gid=0) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/edit#gid=0))
 
 ## Groups
 

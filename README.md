@@ -22,6 +22,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Law](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/hzzbqzvq754NQzDv7))
 - [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
+- [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/) ([Form to add yourself](https://forms.gle/QdsUDAZfYZ6aTzYQ9))
 
 ## Groups
 

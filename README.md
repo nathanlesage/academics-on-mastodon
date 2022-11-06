@@ -24,6 +24,8 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/) ([Form to add yourself](https://forms.gle/QdsUDAZfYZ6aTzYQ9))
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
+- [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
+- [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
 
 ## Groups
 

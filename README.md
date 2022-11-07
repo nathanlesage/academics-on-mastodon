@@ -10,6 +10,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
 - [Book History](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit#gid=0) (Google Spreadsheet; [Form to add yourself](https://forms.gle/ykwt9vFt9zY7Z3gq6))
+- [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)

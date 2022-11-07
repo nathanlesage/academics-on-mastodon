@@ -27,6 +27,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Psychology](https://kaitclark.github.io/mastodon-psychology/)
+- [Qualitative Researchers](https://docs.google.com/forms/d/e/1FAIpQLSd18nvex-ZAT0Tkx66od1kTcZqUvhNcjbENKuohqFAyd7d6ag/viewform) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/spreadsheets/d/14SL14N7sqTgz4QskAA677WqsV1xsEy2-NXsSFsysCFQ/edit#gid=881211263))
 - [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)
 - [Science and Technology Studies](https://jwyg.github.io/mastodon-sts/)
 - [Sociology](https://trutzig89182.github.io/Mastodon-Sociologists/)

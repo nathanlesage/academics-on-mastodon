@@ -34,6 +34,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Asian Studies](https://docs.google.com/spreadsheets/d/10kKyUrBbB5r66xUeuPzV3pM098VqTG7jVTKNSacdCzA/edit?resourcekey=undefined#gid=122506783) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScTMCM_gzW3MtxHnFt16huEpVclmV9yQXA7TZqHZ3r3vslB-Q/viewform))
 - [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
+- [Communications and Media Studies (incl. adjacent fields)](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit) (Google Doc, opt-in); send a ping to [josh@scholar.social](https://scholar.social/@josh/109302051627587144) to be added)
 
 ## Groups
 

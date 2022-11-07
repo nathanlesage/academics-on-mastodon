@@ -37,15 +37,16 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 
 There are also a few groups over on Mastodon that you can use to connect to fellow academics.
 
-- [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
-- [@anthropology@a.gup.pe](https://social.tchncs.de/web/@anthropology@a.gup.pe)
-- [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)
-- [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
+- [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
+- [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)
+- [@anthropology@a.gup.pe](https://social.tchncs.de/web/@anthropology@a.gup.pe)
+- [@antiquidons@a.gup.pe](https://a.gup.pe/u/antiquidons)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
+- [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
-- [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
+- [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 
 ## Servers/communities
 - [Academic and research servers](https://fediscience.org/server-list.html)

@@ -30,6 +30,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Psychology](https://kaitclark.github.io/mastodon-psychology/)
 - [Qualitative Researchers](https://docs.google.com/forms/d/e/1FAIpQLSd18nvex-ZAT0Tkx66od1kTcZqUvhNcjbENKuohqFAyd7d6ag/viewform) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/spreadsheets/d/14SL14N7sqTgz4QskAA677WqsV1xsEy2-NXsSFsysCFQ/edit#gid=881211263))
 - [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)
+- [Semantic Web+](https://semantisch.github.io/SemanticWeb/) ([Form to add yourself](https://forms.gle/pjNmNG6xwzU28Y3o6))
 - [Science and Technology Studies](https://jwyg.github.io/mastodon-sts/)
 - [Sociology](https://trutzig89182.github.io/Mastodon-Sociologists/)
 - [Technology Law & Policy](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucqnmve_ucl_ac_uk/ES11jfqXsNVNpd1roXFokNkBzRux6n2xThtV4CsgqpSj8g?e=rKrajY) (Spreadsheet) 

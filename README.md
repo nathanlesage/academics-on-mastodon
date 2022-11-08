@@ -47,6 +47,8 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
+- [@geodons@a.gup.pe](https://a.gup.pe/u/geodons)
+- [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 

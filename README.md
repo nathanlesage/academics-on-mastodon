@@ -9,6 +9,7 @@
 The following are curated lists of academic accounts on Mastodon, sorted by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
 
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
+- [Biophysics](https://jocelynetienne.github.io/Mastodon-Biophysicists/)
 - [Book History](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit#gid=0) (Google Spreadsheet; [Form to add yourself](https://forms.gle/ykwt9vFt9zY7Z3gq6))
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
@@ -48,6 +49,7 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 - [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 - [@mechanobiology@a.gup.pe](@mechanobiology@a.gup.pe)
+- [@biophysics@a.gup.pe](@mechanobiology@a.gup.pe)
 
 ## Preprint/bibliography bots
 

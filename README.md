@@ -13,6 +13,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
+- [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Genealogy](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/edit#gid=0) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScSHpTI4ka9EoisKtvvfn8b71z4T2UA1B5s-aZ8oocnSobb6Q/viewform))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)

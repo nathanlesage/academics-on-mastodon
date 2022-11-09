@@ -57,6 +57,18 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [Academic and research servers](https://fediscience.org/server-list.html)
 - [Mastodon Quick Start Guide for Humanities Scholars](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/), with a list of instances that are likely to be of interest to Humanities scholars
 
+## Instances for academics
+
+If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
+
+- [Scholar.social](https://scholar.social/about) (invite only)
+- [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
+- [Social Sciences](https://sciences.social)
+- [Fediscience](https://fediscience.social)
+- [Mathstodon](https://mathstodon.xyz)
+- [Human Computer Interaction](https://hci.social)
+- [Open Educational Ressources](https://mastodon.oeru.org)
+
 ## Contribute
 
 Contributions welcome! Feel free to add academic lists or new groups and submit a PR! Just make sure your additions are on topic. Feel free to reach out to us: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz) and [@perspektivbrocken@social.tchncs.de](https://social.tchncs.de/@perspektivbrocken)

@@ -1,12 +1,22 @@
 # Academics on Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> This repository contains a collection of various lists of academics on Mastodon. These lists are curated by many awesome folks across various disciplines, so make sure to give them kudos as well! We expect the lists to be generated with the consent from the accounts listed. If lists are generated without consent, please let us know, so we can drop them.
+> This repository contains a collection of various lists of academics on Mastodon. These lists are curated by many awesome folks across various disciplines, so make sure to give them kudos as well!
 
 ![Academics on Mastodon](./resources/hero.png)
 
+## Table of Contents
+
+- [Curated Account Lists](#curated-account-lists)
+- [Groups](#groups)
+- [Servers/Communities](#serverscommunities)
+- [Contribute](#contribute)
+- [Contact](#contact)
+
 ## Curated Account Lists
 
-The following are curated lists of academic accounts on Mastodon, sorted by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
+The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
+
+>  These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 
 - [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/)
 - [Asian Studies](https://docs.google.com/spreadsheets/d/10kKyUrBbB5r66xUeuPzV3pM098VqTG7jVTKNSacdCzA/edit?resourcekey=undefined#gid=122506783) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScTMCM_gzW3MtxHnFt16huEpVclmV9yQXA7TZqHZ3r3vslB-Q/viewform))
@@ -38,7 +48,7 @@ The following are curated lists of academic accounts on Mastodon, sorted by disc
 
 ## Groups
 
-There are also a few groups over on Mastodon that you can use to connect to fellow academics.
+There are also groups over on Mastodon that you can use to connect to fellow academics.
 
 - [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
@@ -54,10 +64,6 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 
 ## Servers/communities
-- [Academic and research servers](https://fediscience.org/server-list.html)
-- [Mastodon Quick Start Guide for Humanities Scholars](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/), with a list of instances that are likely to be of interest to Humanities scholars
-
-## Instances for academics
 
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
 
@@ -69,6 +75,16 @@ If you are in academia and do not know where to register your account in the fed
 - [Human Computer Interaction](https://hci.social)
 - [Open Educational Ressources](https://mastodon.oeru.org)
 
+> You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). If you are new to Mastodon, [hcommons.org has created a quick start guide for academics on Mastodon](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
+
 ## Contribute
 
 Contributions welcome! Feel free to add academic lists or new groups and submit a PR! Just make sure your additions are on topic. Feel free to reach out to us: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz) and [@perspektivbrocken@social.tchncs.de](https://social.tchncs.de/@perspektivbrocken)
+
+## Contact
+
+This list is primarily maintained by Hendrik Erz (Linköpings Universitet). If you have any questions or issues relating to the list specifically, or would like to report a potential opt-in violation (or other more serious issues), please contact me:
+
+- Email: [hendrik.erz@liu.se](mailto:hendrik.erz@liu.se)
+- Mastodon: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz)
+- Office address and further contact info on my website, [hendrik-erz.de](https://www.hendrik-erz.de/)

@@ -75,7 +75,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Fediscience](https://fediscience.social)
 - [Mathstodon](https://mathstodon.xyz)
 - [Human Computer Interaction](https://hci.social)
-- [Open Educational Ressources](https://mastodon.oeru.org)
+- [Open Educational Resources](https://mastodon.oeru.org)
 
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). If you are new to Mastodon, [hcommons.org has created a quick start guide for academics on Mastodon](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 

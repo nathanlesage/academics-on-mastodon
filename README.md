@@ -56,6 +56,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
 - [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)
 - [@anthropology@a.gup.pe](https://social.tchncs.de/web/@anthropology@a.gup.pe)
+- [@archaeodons@a.gup.pe](https://social.tchncs.de/web/@archaeodons@a.gup.pe)
 - [@antiquidons@a.gup.pe](https://a.gup.pe/u/antiquidons)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)

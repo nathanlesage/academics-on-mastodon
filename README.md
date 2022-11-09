@@ -56,6 +56,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
 - [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)
 - [@anthropology@a.gup.pe](https://social.tchncs.de/web/@anthropology@a.gup.pe)
+- [@archaeodons@a.gup.pe](https://social.tchncs.de/web/@archaeodons@a.gup.pe)
 - [@antiquidons@a.gup.pe](https://a.gup.pe/u/antiquidons)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
@@ -76,6 +77,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Mathstodon](https://mathstodon.xyz)
 - [Human Computer Interaction](https://hci.social)
 - [Open Educational Resources](https://mastodon.oeru.org)
+- [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). If you are new to Mastodon, [hcommons.org has created a quick start guide for academics on Mastodon](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 

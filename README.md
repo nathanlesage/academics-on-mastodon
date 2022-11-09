@@ -52,6 +52,7 @@ There are also a few groups over on Mastodon that you can use to connect to fell
 
 ## Servers/communities
 - [Academic and research servers](https://fediscience.org/server-list.html)
+- [Mastodon Quick Start Guide for Humanities Scholars](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/), with a list of instances that are likely to be of interest to Humanities scholars
 
 ## Contribute
 

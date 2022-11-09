@@ -22,6 +22,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/)
 - [Asian Studies](https://docs.google.com/spreadsheets/d/10kKyUrBbB5r66xUeuPzV3pM098VqTG7jVTKNSacdCzA/edit?resourcekey=undefined#gid=122506783) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScTMCM_gzW3MtxHnFt16huEpVclmV9yQXA7TZqHZ3r3vslB-Q/viewform))
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
+- [Atmospheric science and air quality](https:/jorgesat.github.io/Mastodon-Atmospheric/)
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)

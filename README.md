@@ -74,7 +74,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Scholar.social](https://scholar.social/about) (invite only)
 - [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
 - [Social Sciences](https://sciences.social)
-- [Fediscience](https://fediscience.social)
+- [Fediscience](https://fediscience.org)
 - [Mathstodon](https://mathstodon.xyz)
 - [Human Computer Interaction](https://hci.social)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)

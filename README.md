@@ -37,6 +37,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Law](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/hzzbqzvq754NQzDv7))
 - [Literary Studies](https://docs.google.com/spreadsheets/d/172wtP1Upmv-uUoIAqgTFwP2-_cPdM0Egz5xkTGBbjZU/htmlview) (Google Spreadsheet)
 - [Marketing and Consumer Research](https://lpomfret.github.io/Mastodon-Marketing/)
+- [Medical AI](https://docs.google.com/spreadsheets/d/1-m0s4lg1JKB6y0fVTbM298Ex8PnUzZVwPjQbJz3Rm4E/edit#gid=0)
 - [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
 - [Neuroscience](https://docs.google.com/spreadsheets/d/1k3Q0LOewgIAJolbf-7XagK0twnpjeoyl2uLxR5U80vo/edit?usp=sharing)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)

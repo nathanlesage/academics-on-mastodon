@@ -32,6 +32,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
+- [Historians of Science, Medicine, and Technology](https://docs.google.com/spreadsheets/d/1MKivV_PkVZBAKBXpBkxNFEvjvYvUyE-DQHtujsh6Gww/edit#gid=144548295) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfBvVQv5TNW6s__ufEllGXiCP53zZuKLzYOoaaHFU7p7CiqKQ/viewform))
 - [Information Security](https://docs.google.com/spreadsheets/d/1t13k5_cNhP9_TgoUmqDZk2ROkWkF6Bg3O5269vKIqWw/edit#gid=2024884983) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScxXz9Y7Y2xWs2mRyX6jZWe0UR4nFKBAXfXWsw-zEkxRuEZqQ/viewform?usp=sf_link))
 - [Journalism](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902) (Google Spreadsheet)
 - [Law](https://docs.google.com/spreadsheets/d/1nE8WxgwTFCuVeFA8ZfOW0qonJTSnI_d6EBSJ4E9JqtI/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/hzzbqzvq754NQzDv7))

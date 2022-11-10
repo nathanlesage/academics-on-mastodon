@@ -77,6 +77,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Fediscience](https://fediscience.social)
 - [Mathstodon](https://mathstodon.xyz)
 - [Human Computer Interaction](https://hci.social)
+- [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 - [Open Educational Resources](https://mastodon.oeru.org)
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 

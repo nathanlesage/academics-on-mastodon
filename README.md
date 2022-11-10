@@ -44,7 +44,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Psychology](https://kaitclark.github.io/mastodon-psychology/)
-- [Qualitative Researchers](https://docs.google.com/forms/d/e/1FAIpQLSd18nvex-ZAT0Tkx66od1kTcZqUvhNcjbENKuohqFAyd7d6ag/viewform) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/spreadsheets/d/14SL14N7sqTgz4QskAA677WqsV1xsEy2-NXsSFsysCFQ/edit#gid=881211263))
+- [Qualitative Researchers](https://docs.google.com/spreadsheets/d/14SL14N7sqTgz4QskAA677WqsV1xsEy2-NXsSFsysCFQ/edit#gid=881211263) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSd18nvex-ZAT0Tkx66od1kTcZqUvhNcjbENKuohqFAyd7d6ag/viewform))
 - [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)
 - [Semantic Web+](https://semantisch.github.io/SemanticWeb/) ([Form to add yourself](https://forms.gle/pjNmNG6xwzU28Y3o6))
 - [Science and Technology Studies (STS)](https://jwyg.github.io/mastodon-sts/)

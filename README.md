@@ -20,6 +20,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 
 - [Anthropology](https://fivestone.github.io/fedi-anthropologists/) ([Form to add yourself](https://docs.google.com/forms/d/1czaGLjjvYJ6iUlnwZ56kGCjNMqUYgHtQdhG3fwRSVTU))
 - [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/)
+- [Art and Design Teachers](https://docs.google.com/spreadsheets/d/11I1u6SnlJCy4cmuSIzPwmgpY-WK3fPVN2qRil_cWAvU/edit#gid=0)
 - [Asian Studies](https://docs.google.com/spreadsheets/d/10kKyUrBbB5r66xUeuPzV3pM098VqTG7jVTKNSacdCzA/edit?resourcekey=undefined#gid=122506783) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScTMCM_gzW3MtxHnFt16huEpVclmV9yQXA7TZqHZ3r3vslB-Q/viewform))
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
 - [Atmospheric science and air quality](https://jorgesat.github.io/Mastodon-Atmospheric/)

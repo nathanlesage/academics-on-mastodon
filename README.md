@@ -70,6 +70,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
+- [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
 
 ## Servers/communities
 

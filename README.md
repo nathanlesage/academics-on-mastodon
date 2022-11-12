@@ -29,6 +29,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
+- [Education](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdzCcJb12XQ_ZrGg7TaCnGHCm6u1Ez1K3N88UbX8MbcnScifQ/viewform))
 - [GLAMS: Galleries, Libraries, Archives, Museums, and Special Collections](https://docs.google.com/spreadsheets/d/1c1Ks0zMXn9YCyoY5uA2WrbIj_upUN3TwkP-hSfIDTII/edit?usp=sharing) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSeowEfr3XMkP6bz-hiK36qtSsrem7ehqww7vxD0u-ASJmUosw/viewform?usp=sf_link)).
 - [Genealogy](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/edit#gid=0) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScSHpTI4ka9EoisKtvvfn8b71z4T2UA1B5s-aZ8oocnSobb6Q/viewform))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
@@ -67,6 +68,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
+- [@edutooters@a.gup.pe](https://a.gup.pe/u/edutooters)
 - [@geodons@a.gup.pe](https://a.gup.pe/u/geodons)
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)

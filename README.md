@@ -56,7 +56,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 
 ## Groups
 
-There are also groups over on Mastodon that you can use to connect to fellow academics.
+There are also groups over on Mastodon that you can use to connect to fellow academics. Start your own or view more groups [here](https://a.gup.pe/).
 
 - [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)

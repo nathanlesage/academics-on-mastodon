@@ -45,7 +45,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Neuroscience](https://docs.google.com/spreadsheets/d/1k3Q0LOewgIAJolbf-7XagK0twnpjeoyl2uLxR5U80vo/edit?usp=sharing)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
-- [Psychology](https://kaitclark.github.io/mastodon-psychology/)
+- [Psychology](https://kaitclark.github.io/mastodon-psychology/) ([Form to add yourself](https://uwe.eu.qualtrics.com/jfe/form/SV_6VDJQAi8E789Klg))
 - [Public Policy](https://howlettm.github.io/Mastodon-Policy/)
 - [Qualitative Researchers](https://docs.google.com/spreadsheets/d/14SL14N7sqTgz4QskAA677WqsV1xsEy2-NXsSFsysCFQ/edit#gid=881211263) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSd18nvex-ZAT0Tkx66od1kTcZqUvhNcjbENKuohqFAyd7d6ag/viewform))
 - [Religion](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/edit?usp=sharing) (Google Spreadsheet)

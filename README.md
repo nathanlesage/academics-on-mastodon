@@ -68,6 +68,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
 - [@geodons@a.gup.pe](https://a.gup.pe/u/geodons)
+- [@histodons@a.gup.pe](https://a.gup.pe/u/histodons)
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
@@ -77,15 +78,16 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
 
+- [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
+- [Fediscience](https://fediscience.org)
+- [Human Computer Interaction](https://hci.social)
+- [Mathstodon](https://mathstodon.xyz)
+- [Med-Mastodon](https://med-mastodon.com/about)
+- [Open Educational Resources](https://mastodon.oeru.org)
 - [Scholar.social](https://scholar.social/about) (invite only)
 - [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
 - [Social Sciences](https://sciences.social)
-- [Fediscience](https://fediscience.org)
-- [Mathstodon](https://mathstodon.xyz)
-- [Human Computer Interaction](https://hci.social)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
-- [Open Educational Resources](https://mastodon.oeru.org)
-- [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). If you are new to Mastodon, [hcommons.org has created a quick start guide for academics on Mastodon](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 

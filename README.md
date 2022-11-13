@@ -85,6 +85,8 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 
 These bots provide automated access to a few preprint servers.
 
+> If you notice malicious behavior by these bots, [please notify us](#contact).
+
 - [@arxiv_physics@qoto.org](https://qoto.org/web/@arxiv_physics) arXiv Physics
 - [@arxiv_eess@qoto.org](https://qoto.org/web/@arxiv_eess) arXiv EE and SS
 - [@arxiv_math@qoto.org](https://qoto.org/web/@arxiv_math) arXiv Math

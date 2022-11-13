@@ -122,7 +122,9 @@ Contributions welcome! Feel free to add academic lists or new groups and submit 
 
 ## Contact
 
-This list is primarily maintained by Hendrik Erz (Linköpings Universitet). If you have any questions or issues relating to the list specifically, or would like to report a potential opt-in violation (or other more serious issues), please contact me:
+This list is primarily maintained by Hendrik Erz (Linköpings Universitet). Below you can find ways to contact me in case you have individual questions regarding this collection of lists, or if you would report a potential opt-in violation (or similar issues).
+
+> **PLEASE NOTE**: This contact info is **not** meant to send me links to new lists. If you would like to add a list, please open a PR instead! In case that this somehow doesn't work for you, you can also [open an issue](https://github.com/nathanlesage/academics-on-mastodon/issues/new), state why the PR didn't work, and provide the link to the list (and optionally the form). I receive dozens of work-related emails via the address below, so by keeping everything list-related here on GitHub I can keep that separated. Thank you very much for your understanding.
 
 - Email: [hendrik.erz@liu.se](mailto:hendrik.erz@liu.se)
 - Mastodon: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz)

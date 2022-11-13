@@ -105,6 +105,7 @@ If you are in academia and do not know where to register your account in the fed
 
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Fediscience](https://fediscience.org)
+- [High Performance Computing (HPC) and Related Fields (survey for new server)](https://survey.hpc.social)
 - [Human Computer Interaction](https://hci.social)
 - [Mathstodon](https://mathstodon.xyz)
 - [Med-Mastodon](https://med-mastodon.com/about)

@@ -45,6 +45,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Marketing and Consumer Research](https://lpomfret.github.io/Mastodon-Marketing/)
 - [Medical AI](https://docs.google.com/spreadsheets/d/1-m0s4lg1JKB6y0fVTbM298Ex8PnUzZVwPjQbJz3Rm4E/edit#gid=0)
 - [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
+- [Migration Research](https://alessiodangelo.wordpress.com/mastodon-migration-research/)
 - [Neuroscience](https://docs.google.com/spreadsheets/d/1k3Q0LOewgIAJolbf-7XagK0twnpjeoyl2uLxR5U80vo/edit?usp=sharing)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)

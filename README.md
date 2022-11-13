@@ -64,7 +64,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 
 There are also groups over on Mastodon that you can use to connect to fellow academics. Start your own or view more groups [here](https://a.gup.pe/).
 
-- [List of Economy Groups](https://docs.google.com/spreadsheets/d/1DVDfc3V7zTpghG0zbIYhHGQFU0rvy4BtpVQiNFn3DC4/edit#gid=0)
+- [List of Economics Groups](https://docs.google.com/spreadsheets/d/1DVDfc3V7zTpghG0zbIYhHGQFU0rvy4BtpVQiNFn3DC4/edit#gid=0)
 - [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
 - [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)

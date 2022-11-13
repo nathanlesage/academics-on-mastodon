@@ -25,6 +25,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
 - [Atmospheric science and air quality](https://jorgesat.github.io/Mastodon-Atmospheric/)
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
+- [Biophysics](https://jocelynetienne.github.io/Mastodon-Biophysicists/)
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
 - [Cheminformatics and Computational Chemistry](https://cheminformatics.netlify.app/)
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)
@@ -77,6 +78,23 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@seresearchers@a.gup.pe](https://a.gup.pe/u/seresearchers) (Software Engineering)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 - [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
+- [@mechanobiology@a.gup.pe](@mechanobiology@a.gup.pe)
+- [@biophysics@a.gup.pe](@mechanobiology@a.gup.pe)
+
+## Preprint/bibliography bots
+
+These bots provide automated access to a few preprint servers.
+
+- [@arxiv_physics@qoto.org](https://qoto.org/web/@arxiv_physics) arXiv Physics
+- [@arxiv_eess@qoto.org](https://qoto.org/web/@arxiv_eess) arXiv EE and SS
+- [@arxiv_math@qoto.org](https://qoto.org/web/@arxiv_math) arXiv Math
+- [@arxiv_cs@qoto.org](https://qoto.org/web/@arxiv_cs) arXiv Computer Science
+- [@arxivstats@botsin.space](https://botsin.space/web/@arxivstats) arXiv stats
+- [@bioRxiv_cellbiol@botsin.space](https://botsin.space/web/@bioRxiv_cellbiol) bioRxiv cell biology RSS feed
+- [@bioRxiv_biophys@botsin.space](https://botsin.space/web/@bioRxiv_biophys) bioRxiv biophysics RSS feed
+- [@Rxiv_cytoskeleton@botsin.space](https://botsin.space/web/@Rxiv_cytoskeleton) bioRxiv, arXiv and PubMed cytoskeleton-related feed
+- [@mechanobio@botsin.space](https://botsin.space/web/@mechanobio) bioRxiv, arXiv and PubMed mechanobiology-related feed
+- [@flypapers@botsin.space](https://botsin.space/web/@flypapers) bioRxiv, arXiv and PubMed Drosophila fruitfly-related feed 
 
 ## Servers/communities
 

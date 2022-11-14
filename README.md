@@ -84,6 +84,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
 - [@mechanobiology@a.gup.pe](@mechanobiology@a.gup.pe)
 - [@biophysics@a.gup.pe](@mechanobiology@a.gup.pe)
+- [@julialang@a.gup.pe](https://a.gup.pe/u/julialang) (The Julia programming language)
 
 ## Preprint/bibliography bots
 

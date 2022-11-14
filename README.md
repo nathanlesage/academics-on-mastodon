@@ -116,6 +116,8 @@ If you are in academia and do not know where to register your account in the fed
 - [Social Sciences](https://sciences.social)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 
+> If you are working in or with HPC and would like to join a dedicated Mastodon server, [Dr. Alan Sill (Texas Tech University)](https://github.com/alansill) is currently running a survey to estimate interest. You can find the survey at [survey.hpc.social](https://survey.hpc.social).
+
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). If you are new to Mastodon, [hcommons.org has created a quick start guide for academics on Mastodon](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 
 ## Contribute

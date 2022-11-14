@@ -109,6 +109,8 @@ If you are in academia and do not know where to register your account in the fed
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Fediscience](https://fediscience.org)
 - [Human Computer Interaction](https://hci.social)
+- [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
+- [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
 - [Mathstodon](https://mathstodon.xyz)
 - [Med-Mastodon](https://med-mastodon.com/about)
 - [Open Educational Resources](https://mastodon.oeru.org)

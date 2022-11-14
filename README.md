@@ -64,6 +64,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 
 There are also groups over on Mastodon that you can use to connect to fellow academics. Start your own or view more groups [here](https://a.gup.pe/).
 
+- [List of Economics Groups](https://docs.google.com/spreadsheets/d/1DVDfc3V7zTpghG0zbIYhHGQFU0rvy4BtpVQiNFn3DC4/edit#gid=0)
 - [@academicchatter@a.gup.pe](https://a.gup.pe/u/academicchatter) (general chat about academic life)
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
 - [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)
@@ -118,7 +119,7 @@ If you are in academia and do not know where to register your account in the fed
 
 > If you are working in or with HPC and would like to join a dedicated Mastodon server, [Dr. Alan Sill (Texas Tech University)](https://github.com/alansill) is currently running a survey to estimate interest. You can find the survey at [survey.hpc.social](https://survey.hpc.social).
 
-> You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). If you are new to Mastodon, [hcommons.org has created a quick start guide for academics on Mastodon](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
+> You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 
 ## Contribute
 

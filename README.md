@@ -109,6 +109,7 @@ If you are in academia and do not know where to register your account in the fed
 
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
+- [Fediphilosophy](https://fediphilosophy.org/) (Mastodon instance for academic philosophers) ; see also : [server guide & rules](https://github.com/xiyudu/fediphilosophy)
 - [Fediscience](https://fediscience.org)
 - [Human Computer Interaction](https://hci.social)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)

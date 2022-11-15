@@ -108,8 +108,9 @@ These bots provide automated access to a few preprint servers.
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
 
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
+- [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
-- [Fediscience](https://fediscience.org)
+- [Fediscience](https://fediscience.org) (Sceince General)
 - [Human Computer Interaction](https://hci.social)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)

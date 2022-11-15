@@ -110,7 +110,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
-- [Fediscience](https://fediscience.org) (Sceince General)
+- [Fediscience](https://fediscience.org) (Science General)
 - [Human Computer Interaction](https://hci.social)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)

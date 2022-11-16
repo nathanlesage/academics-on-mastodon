@@ -69,22 +69,23 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@academicsunite@a.gup.pe](https://a.gup.pe/u/academicsunite) (academic working conditions)
 - [@ancientneareast@a.gup.pe](https://a.gup.pe/u/ancientneareast)
 - [@anthropology@a.gup.pe](https://social.tchncs.de/web/@anthropology@a.gup.pe)
-- [@archaeodons@a.gup.pe](https://social.tchncs.de/web/@archaeodons@a.gup.pe)
 - [@antiquidons@a.gup.pe](https://a.gup.pe/u/antiquidons)
+- [@archaeodons@a.gup.pe](https://social.tchncs.de/web/@archaeodons@a.gup.pe)
+- [@biophysics@a.gup.pe](@biophysics@a.gup.pe)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
 - [@edutooters@a.gup.pe](https://a.gup.pe/u/edutooters)
 - [@geodons@a.gup.pe](https://a.gup.pe/u/geodons)
 - [@histodons@a.gup.pe](https://a.gup.pe/u/histodons)
+- [@julialang@a.gup.pe](https://a.gup.pe/u/julialang) (The Julia programming language)
+- [@mechanobiology@a.gup.pe](@mechanobiology@a.gup.pe)
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
+- [@politicalscience@a.gup.pe](@politicalscience@a.gup.pe)
+- [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
 - [@seresearchers@a.gup.pe](https://a.gup.pe/u/seresearchers) (Software Engineering)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
-- [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
-- [@mechanobiology@a.gup.pe](@mechanobiology@a.gup.pe)
-- [@biophysics@a.gup.pe](@mechanobiology@a.gup.pe)
-- [@julialang@a.gup.pe](https://a.gup.pe/u/julialang) (The Julia programming language)
 
 ## Preprint/bibliography bots
 
@@ -108,12 +109,14 @@ These bots provide automated access to a few preprint servers.
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
 
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
+- [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
-- [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
-- [Fediscience](https://fediscience.org)
+- [Fediphilosophy](https://fediphilosophy.org/) (Mastodon instance for academic philosophers; [server guide & rules](https://github.com/xiyudu/fediphilosophy))
+- [Fediscience](https://fediscience.org) (General science)
 - [Human Computer Interaction](https://hci.social)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
+- [Julia Language](https://julialang.social/)
 - [Mathstodon](https://mathstodon.xyz)
 - [Med-Mastodon](https://med-mastodon.com/about)
 - [Open Educational Resources](https://mastodon.oeru.org)
@@ -121,6 +124,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
 - [Social Sciences](https://sciences.social)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
+- [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
 
 > If you are working in or with HPC and would like to join a dedicated Mastodon server, [Dr. Alan Sill (Texas Tech University)](https://github.com/alansill) is currently running a survey to estimate interest. You can find the survey at [survey.hpc.social](https://survey.hpc.social).
 

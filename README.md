@@ -114,6 +114,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Fediphilosophy](https://fediphilosophy.org/) (Mastodon instance for academic philosophers; [server guide & rules](https://github.com/xiyudu/fediphilosophy))
 - [Fediscience](https://fediscience.org) (General science)
 - [Human Computer Interaction](https://hci.social)
+- [Humanities Commons](https://hcommons.social)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
 - [Julia Language](https://julialang.social/)

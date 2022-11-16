@@ -114,6 +114,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Human Computer Interaction](https://hci.social)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
+- [Julia Language](https://julialang.social/)
 - [Mathstodon](https://mathstodon.xyz)
 - [Med-Mastodon](https://med-mastodon.com/about)
 - [Open Educational Resources](https://mastodon.oeru.org)

@@ -122,6 +122,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Mathstodon](https://mathstodon.xyz)
 - [Med-Mastodon](https://med-mastodon.com/about)
 - [Open Educational Resources](https://mastodon.oeru.org)
+- [redNiboe](https://red.niboe.info) (Academics in Latin America, invite only)
 - [Scholar.social](https://scholar.social/about) (invite only)
 - [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
 - [Social Sciences](https://sciences.social)

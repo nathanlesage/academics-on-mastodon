@@ -126,6 +126,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Social Sciences](https://sciences.social)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
+- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 
 > If you are working in or with HPC and would like to join a dedicated Mastodon server, [Dr. Alan Sill (Texas Tech University)](https://github.com/alansill) is currently running a survey to estimate interest. You can find the survey at [survey.hpc.social](https://survey.hpc.social).
 

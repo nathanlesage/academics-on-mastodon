@@ -73,6 +73,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@antiquidons@a.gup.pe](https://a.gup.pe/u/antiquidons)
 - [@archaeodons@a.gup.pe](https://social.tchncs.de/web/@archaeodons@a.gup.pe)
 - [@biophysics@a.gup.pe](https://a.gup.pe/u/biophysics)
+- [@dh@a.gup.pe](https://a.gup.pe/u/dh) (Digital Humanities)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)

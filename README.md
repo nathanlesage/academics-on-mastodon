@@ -27,7 +27,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
 - [Biophysics](https://jocelynetienne.github.io/Mastodon-Biophysicists/)
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
-- [Cheminformatics and Computational Chemistry](https://cheminformatics.netlify.app/)
+- [Cheminformatics and Computational @semanticweb@a.gup.peChemistry](https://cheminformatics.netlify.app/)
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
@@ -93,6 +93,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@psycholinguistics@a.gup.pe](https://a.gup.pe/u/psycholinguistics)
 - [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
 - [@seresearchers@a.gup.pe](https://a.gup.pe/u/seresearchers) (Software Engineering)
+- [@semanticweb@a.gup.pe](https://a.gup.pe/u/semanticweb) (Semantic Web)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 - [@WebScience@a.gup.pe](https://a.gup.pe/u/webscience) (Web Science)
 

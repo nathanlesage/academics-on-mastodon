@@ -139,7 +139,7 @@ If you are in academia and do not know where to register your account in the fed
 - [redNiboe](https://red.niboe.info) (Academics in Latin America, invite only)
 - [Scholar.social](https://scholar.social/about) (invite only)
 - [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
-- [Sciences.Re][https://social.sciences.re/] (French-speaking Academics)
+- [Sciences.Re](https://social.sciences.re/) (French-speaking Academics)
 - [Social Sciences](https://sciences.social)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)

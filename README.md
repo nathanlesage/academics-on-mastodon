@@ -31,7 +31,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/edit?usp=sharing) (Google Doc)
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/edit#gid=229844055) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
-- [Earth Science](https://all-geo.org/mastodon-earthsci/) ((Form to add yourself)[https://forms.gle/iYvKHFWajKjEewsY7])
+- [Earth Science](https://all-geo.org/mastodon-earthsci/) ([Form to add yourself](https://forms.gle/iYvKHFWajKjEewsY7))
 - [Education](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdzCcJb12XQ_ZrGg7TaCnGHCm6u1Ez1K3N88UbX8MbcnScifQ/viewform))
 - [Genealogy](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/edit#gid=0) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScSHpTI4ka9EoisKtvvfn8b71z4T2UA1B5s-aZ8oocnSobb6Q/viewform))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)

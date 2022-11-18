@@ -96,7 +96,9 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@psycholinguistics@a.gup.pe](https://a.gup.pe/u/psycholinguistics)
 - [@rstats@a.gup.pe](https://a.gup.pe/u/rstats) (The R language for statistical computing)
 - [@seresearchers@a.gup.pe](https://a.gup.pe/u/seresearchers) (Software Engineering)
+- [@semanticweb@a.gup.pe](https://a.gup.pe/u/semanticweb) (Semantic Web)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
+- [@WebScience@a.gup.pe](https://a.gup.pe/u/webscience) (Web Science)
 
 ## Preprint/bibliography bots
 

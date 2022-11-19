@@ -62,6 +62,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Semantic Web+](https://semantisch.github.io/SemanticWeb/) ([Form to add yourself](https://forms.gle/pjNmNG6xwzU28Y3o6))
 - [Sociology](https://trutzig89182.github.io/Mastodon-Sociologists/)
 - [Technology Law & Policy](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucqnmve_ucl_ac_uk/ES11jfqXsNVNpd1roXFokNkBzRux6n2xThtV4CsgqpSj8g?e=rKrajY) (Spreadsheet)
+- [Theologidons](https://docs.google.com/spreadsheets/d/1uBwBthFWMCTKxMEn6liNosDX8bOEmoNnFZnWD_xu_7E/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/1hyWwyXQpg5xqclT5d630QMfbunzaf14owBX5fQWNmFw/viewform?pli=1&pli=1&edit_requested=true))
 
 ## Groups
 
@@ -122,7 +123,7 @@ These bots provide automated access to a few preprint servers.
 
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
 
-- [18th Century Mastodon](https://c18.masto.host/)(For scholars of eighteenth-century global culture, history, literature, philosophy, and ideas)
+- [18th Century Mastodon](https://c18.masto.host/) (For scholars of eighteenth-century global culture, history, literature, philosophy, and ideas)
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)

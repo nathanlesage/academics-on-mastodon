@@ -124,6 +124,7 @@ These bots provide automated access to a few preprint servers.
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
 
 - [18th Century Mastodon](https://c18.masto.host/) (For scholars of eighteenth-century global culture, history, literature, philosophy, and ideas)
+- [akademienl.social](https://akademienl.social/explore) (focused primarily on Dutch academia)
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)

@@ -145,7 +145,7 @@ If you are in academia and do not know where to register your account in the fed
 - [InfoSec](https://infosec.exchange/explore)
 - [Julia Language](https://julialang.social/)
 - [Law Professors](https://mastodon.lawprofs.org/)
-- [Mastodon.Art](https://mastodon.art/explore) Creative Arts
+- [Mastodon.Art](https://mastodon.art/explore) (Creative Arts)
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
 - [Med-Mastodon](https://med-mastodon.com/about)

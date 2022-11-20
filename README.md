@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
-- [Curated Account Lists](#curated-account-lists)
-- [Groups](#groups)
-- [Servers/Communities](#serverscommunities)
-- [Contribute](#contribute)
-- [Contact](#contact)
+- [Curated Account Lists](#curated-account-lists) — find people to follow
+- [Groups](#groups) — tap into what people are saying
+- [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
+- [Contribute](#contribute) — contribute new lists, groups, and servers
+- [Contact](#contact) — for the legal stuff
 
 ## Curated Account Lists
 

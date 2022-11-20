@@ -151,6 +151,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
 - [Med-Mastodon](https://med-mastodon.com/about)
+- [MIT](https://mastodon.mit.edu/explore)
 - [mstdn.science](https://mstdn.science/explore) (Primarily Microbiology, but all sciences welcome.)
 - [Open Educational Resources](https://mastodon.oeru.org)
 - [OpenBiblio](https://openbiblio.social/) (For German speaking librarians and information specialists)
@@ -166,9 +167,6 @@ If you are in academia and do not know where to register your account in the fed
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
 - [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
-
-### University Instances
-- [MIT](https://mastodon.mit.edu/explore)
 
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 

@@ -51,6 +51,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
 - [Migration Research](https://alessiodangelo.wordpress.com/mastodon-migration-research/)
 - [Neuroscience](https://docs.google.com/spreadsheets/d/1k3Q0LOewgIAJolbf-7XagK0twnpjeoyl2uLxR5U80vo/edit?usp=sharing)
+- [Nuclear Fusion](https://jhillairet.github.io/Mastodon-Nuclear-Fusion/)
 - [Open Science](https://germanrepro.github.io/Mastodon-OpenScience/)
 - [Palaeogenomics](https://www.jafy.eu/Mastodon-Palaeogenomicists)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)

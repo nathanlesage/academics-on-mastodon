@@ -94,7 +94,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@geography@a.gup.pe](https://a.gup.pe/u/geography)
 - [@geopolitics@a.gup.pe](https://a.gup.pe/u/geopolitics)
 - [@histodons@a.gup.pe](https://a.gup.pe/u/histodons)
-- [@iiif@a.gup.pe](https://a.gup.pe/u/iiif)
+- [@iiif@a.gup.pe](https://a.gup.pe/u/iiif) (International Image Interoperability Framework)
 - [@immigration@a.gup.pe](https://a.gup.pe/u/immigration)
 - [@julialang@a.gup.pe](https://a.gup.pe/u/julialang) (The Julia programming language)
 - [@law@a.gup.pe](https://a.gup.pe/u/law)

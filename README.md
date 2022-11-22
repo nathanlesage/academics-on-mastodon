@@ -156,7 +156,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
 - [Med-Mastodon](https://med-mastodon.com/about)
-- [MIT](https://mastodon.mit.edu/explore)
+- [MIT](https://mastodon.mit.edu/explore) (Unoffical)
 - [mstdn.science](https://mstdn.science/explore) (Primarily Microbiology, but all sciences welcome.)
 - [Open Educational Resources](https://mastodon.oeru.org)
 - [OpenBiblio](https://openbiblio.social/) (For German speaking librarians and information specialists)

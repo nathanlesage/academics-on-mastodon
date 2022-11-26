@@ -128,6 +128,7 @@ These bots provide automated access to a few preprint servers.
 - [@Rxiv_cytoskeleton@botsin.space](https://botsin.space/web/@Rxiv_cytoskeleton) bioRxiv, arXiv and PubMed cytoskeleton-related feed
 - [@mechanobio@botsin.space](https://botsin.space/web/@mechanobio) bioRxiv, arXiv and PubMed mechanobiology-related feed
 - [@flypapers@botsin.space](https://botsin.space/web/@flypapers) bioRxiv, arXiv and PubMed Drosophila fruitfly-related feed 
+- [@j824h_arXiv_astro_ph](https://mathstodon.xyz/@j824h_arXiv_astro_ph) arXiv Astrophysics
 
 ## Servers/communities
 

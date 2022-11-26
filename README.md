@@ -158,6 +158,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Mastodon.Art](https://mastodon.art/explore) (Creative Arts)
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
+- [Med-Mammoth](https://med-mammoth.com/)
 - [Med-Mastodon](https://med-mastodon.com/about)
 - [Medievalist-Masto](https://medievalist.masto.host/)
 - [MIT](https://mastodon.mit.edu/explore) (Unoffical)

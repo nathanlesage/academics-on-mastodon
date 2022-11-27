@@ -173,6 +173,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Scicomm.xyz](https://scicomm.xyz/about) (Science communicators)
 - [ScienceMastodon.com](https://sciencemastodon.com/explore) (Science journalists and scientists)
 - [Sciences.Re](https://social.sciences.re/) (French-speaking Academics)
+- [Sigmoid.social](https://sigmoid.social/about) (Artificial Intelligence)
 - [Social Sciences](https://sciences.social)
 - [Universeodon](https://universeodon.com/) (Astronomy, astrophysics, physics)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)

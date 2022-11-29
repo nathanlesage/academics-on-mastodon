@@ -58,6 +58,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Neuroscience](https://docs.google.com/spreadsheets/d/1k3Q0LOewgIAJolbf-7XagK0twnpjeoyl2uLxR5U80vo/edit?usp=sharing)
 - [Nuclear Fusion](https://jhillairet.github.io/Mastodon-Nuclear-Fusion/)
 - [Open Science](https://germanrepro.github.io/Mastodon-OpenScience/)
+- [Operations research](https://docs.google.com/spreadsheets/d/1QiBa9g16hATXZtswTjK9qPMTBnnpbwLPclxHIxiu4fU/) (Google Spreadsheet)
 - [Palaeogenomics](https://www.jafy.eu/Mastodon-Palaeogenomicists)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Plant Science & Botany](https://docs.google.com/spreadsheets/d/1eimFqYMERb5uR4Sh5QOu1g4ZWosngj5nHQEpAeix55I/edit?usp=sharing) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScJZnuK20hBwwLjTfnzXG0aj7F4taE7Ivlmj7HhgQarjpjs_g/viewform))

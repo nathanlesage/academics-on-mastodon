@@ -131,6 +131,10 @@ These bots provide automated access to a few preprint servers.
 - [@mechanobio@botsin.space](https://botsin.space/web/@mechanobio) bioRxiv, arXiv and PubMed mechanobiology-related feed
 - [@flypapers@botsin.space](https://botsin.space/web/@flypapers) bioRxiv, arXiv and PubMed Drosophila fruitfly-related feed 
 - [@j824h_arXiv_astro_ph](https://mathstodon.xyz/@j824h_arXiv_astro_ph) arXiv Astrophysics
+- [@EdArXivBot@botsin.space](https://botsin.space/@EdArXivBot) arXiv Education
+- [@PsyArXivBot@botsin.space](https://botsin.space/@PsyArXivBot) arXiv Psychology
+- [@SocArXivBot@botsin.space](https://botsin.space/@SocArXivBot) arXiv Social Sciences
+- [@MetaArXivBot@botsin.space](https://botsin.space/@MetaArXivBot) arXiv research transparency and reproducibility
 
 ## Servers/communities
 

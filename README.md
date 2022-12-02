@@ -184,6 +184,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Sciences.Re](https://social.sciences.re/) (French-speaking Academics)
 - [Sigmoid.social](https://sigmoid.social/about) (Artificial Intelligence)
 - [Social Sciences](https://sciences.social)
+- [Synapse Cafe](https://synapse.cafe) (Neuroscience)
 - [Universeodon](https://universeodon.com/) (Astronomy, astrophysics, physics)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)

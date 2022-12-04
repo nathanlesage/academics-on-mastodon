@@ -33,14 +33,14 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Chemistry](https://docs.google.com/spreadsheets/d/1qdJvHHvu-BC4N6nk1jNMhTwoBrIaqHLUCZRf9pCQwDs/) (Google Spreadsheet) ([Form to add yourself](https://forms.gle/gF9MLUGMWs23EFix6))
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/) (Google Doc)
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
-- [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform)); 
+- [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform)) 
 - [Dendrochronology](https://ronaldvisser.github.io/Mastodon-Dendrochronology/)
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Earth Science](https://all-geo.org/mastodon-earthsci/) ([Form to add yourself](https://forms.gle/iYvKHFWajKjEewsY7))
 - [Education](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdzCcJb12XQ_ZrGg7TaCnGHCm6u1Ez1K3N88UbX8MbcnScifQ/viewform))
 - [Genealogy](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScSHpTI4ka9EoisKtvvfn8b71z4T2UA1B5s-aZ8oocnSobb6Q/viewform))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
-- [GLAMS: Galleries, Libraries, Archives, Museums, and Special Collections](https://docs.google.com/spreadsheets/d/1c1Ks0zMXn9YCyoY5uA2WrbIj_upUN3TwkP-hSfIDTII/edit?usp=sharing) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSeowEfr3XMkP6bz-hiK36qtSsrem7ehqww7vxD0u-ASJmUosw/viewform)).
+- [GLAMS: Galleries, Libraries, Archives, Museums, and Special Collections](https://docs.google.com/spreadsheets/d/1c1Ks0zMXn9YCyoY5uA2WrbIj_upUN3TwkP-hSfIDTII/edit?usp=sharing) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSeowEfr3XMkP6bz-hiK36qtSsrem7ehqww7vxD0u-ASJmUosw/viewform))
 - [Historians of Science, Medicine, and Technology](https://docs.google.com/spreadsheets/d/1MKivV_PkVZBAKBXpBkxNFEvjvYvUyE-DQHtujsh6Gww/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfBvVQv5TNW6s__ufEllGXiCP53zZuKLzYOoaaHFU7p7CiqKQ/viewform))
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)

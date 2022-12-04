@@ -148,8 +148,10 @@ If you are in academia and do not know where to register your account in the fed
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Astrodon.social](https://astrodon.social/explore) (Astronomy, astrophysics, astrophotography, and adjacent sciences)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
+- [Ausglam.space](https://ausglam.space/about) (Australasian Galleries, Libraries, Archives, Museums and Records)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
+- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)
 - [EUPolicy.social](https://eupolicy.social/about)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
@@ -190,7 +192,6 @@ If you are in academia and do not know where to register your account in the fed
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
-- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 

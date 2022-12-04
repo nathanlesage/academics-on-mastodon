@@ -33,6 +33,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Chemistry](https://docs.google.com/spreadsheets/d/1qdJvHHvu-BC4N6nk1jNMhTwoBrIaqHLUCZRf9pCQwDs/) (Google Spreadsheet) ([Form to add yourself](https://forms.gle/gF9MLUGMWs23EFix6))
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/) (Google Doc)
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
+- [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform)); 
 - [Dendrochronology](https://ronaldvisser.github.io/Mastodon-Dendrochronology/)
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Earth Science](https://all-geo.org/mastodon-earthsci/) ([Form to add yourself](https://forms.gle/iYvKHFWajKjEewsY7))
@@ -147,8 +148,10 @@ If you are in academia and do not know where to register your account in the fed
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Astrodon.social](https://astrodon.social/explore) (Astronomy, astrophysics, astrophotography, and adjacent sciences)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
+- [Ausglam.space](https://ausglam.space/about) (Australasian Galleries, Libraries, Archives, Museums and Records)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
+- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)
 - [EUPolicy.social](https://eupolicy.social/about)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
@@ -189,7 +192,6 @@ If you are in academia and do not know where to register your account in the fed
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
-- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 
 > You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 

@@ -106,6 +106,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@mechanobiology@a.gup.pe](https://a.gup.pe/u/mechanobiology)
 - [@medievodons@a.gup.pe](https://a.gup.pe/u/medievodons)
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
+- [@paleofire@a.gup.pe](https://a.gup.pe/u/paleofire) (Fire reconstruction, paleoecology)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
 - [@politicalscience@a.gup.pe](https://a.gup.pe/u/politicalscience)
 - [@psycholinguistics@a.gup.pe](https://a.gup.pe/u/psycholinguistics)

@@ -162,6 +162,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Fediscience](https://fediscience.org) (General science)
 - [Genomic.Social](https://genomic.social/explore) (Genomic Science Community)
 - [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
+- [h-net.social](https://h-net.social/) (Humanities and Social Sciences scholars, hosted by H-Net)
 - [High Performance Computing](https://mast.hpc.social)
 - [Historians.Social](https://historians.social/)
 - [Human Computer Interaction](https://hci.social)

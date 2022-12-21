@@ -41,6 +41,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Genealogy](https://docs.google.com/spreadsheets/d/10AsFTNHC2LwjU7_XrQ_IxjcEjqv-4uMdLfO-L6q0cXY/) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScSHpTI4ka9EoisKtvvfn8b71z4T2UA1B5s-aZ8oocnSobb6Q/viewform))
 - [Geography](https://lejun.codeberg.page/Mastodon-Geography/)
 - [GLAMS: Galleries, Libraries, Archives, Museums, and Special Collections](https://docs.google.com/spreadsheets/d/1c1Ks0zMXn9YCyoY5uA2WrbIj_upUN3TwkP-hSfIDTII/edit?usp=sharing) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSeowEfr3XMkP6bz-hiK36qtSsrem7ehqww7vxD0u-ASJmUosw/viewform))
+- [Health Psychologists](https://hpss.one/mastodon.nl)
 - [Historians of Science, Medicine, and Technology](https://docs.google.com/spreadsheets/d/1MKivV_PkVZBAKBXpBkxNFEvjvYvUyE-DQHtujsh6Gww/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfBvVQv5TNW6s__ufEllGXiCP53zZuKLzYOoaaHFU7p7CiqKQ/viewform))
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)

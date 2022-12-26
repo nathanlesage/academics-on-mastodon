@@ -16,7 +16,7 @@
 
 The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
 
->  These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
+> These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 
 - [African Studies](https://docs.google.com/spreadsheets/d/1cZwBUZvKUwS84hoeEqq7h0NyiaeqmFtojaVqD5c5_08/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdoXGqL7CX6dHUTX1dt3HmZcBU_72aX1USIVLSnTkie76M0wA/viewform))
 - [Anthropology](https://fivestone.github.io/fedi-anthropologists/) ([Form to add yourself](https://docs.google.com/forms/d/1czaGLjjvYJ6iUlnwZ56kGCjNMqUYgHtQdhG3fwRSVTU))
@@ -33,7 +33,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Chemistry](https://docs.google.com/spreadsheets/d/1qdJvHHvu-BC4N6nk1jNMhTwoBrIaqHLUCZRf9pCQwDs/) (Google Spreadsheet) ([Form to add yourself](https://forms.gle/gF9MLUGMWs23EFix6))
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/) (Google Doc)
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
-- [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform)) 
+- [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform))
 - [Dendrochronology](https://ronaldvisser.github.io/Mastodon-Dendrochronology/)
 - [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Earth Science](https://all-geo.org/mastodon-earthsci/) ([Form to add yourself](https://forms.gle/iYvKHFWajKjEewsY7))
@@ -53,6 +53,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Linguists](https://etherpad.wikimedia.org/p/mastodonlinguists)
 - [Literary Studies](https://docs.google.com/spreadsheets/d/172wtP1Upmv-uUoIAqgTFwP2-_cPdM0Egz5xkTGBbjZU/htmlview) (Google Spreadsheet)
 - [Marketing and Consumer Research](https://lpomfret.github.io/Mastodon-Marketing/)
+- [Mass Spec](https://sidhuk.github.io/Mastodon-TeamMassSpec/)
 - [Medical AI](https://docs.google.com/spreadsheets/d/1-m0s4lg1JKB6y0fVTbM298Ex8PnUzZVwPjQbJz3Rm4E/)
 - [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
 - [Meteorology & Weather](https://docs.google.com/spreadsheets/d/1_9V5q0bLYqPNnbcHzut0eyMGLGTkNXyK6LR-EDcpfdc/) (Google Spreadsheet) [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfALCNv2I0WRmGpoNDn34PPDH0aHrqIdbWUGCkoFMmgQCbKzw/viewform)
@@ -105,6 +106,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@julialang@a.gup.pe](https://a.gup.pe/u/julialang) (The Julia programming language)
 - [@law@a.gup.pe](https://a.gup.pe/u/law)
 - [@linguistics@a.gup.pe](https://a.gup.pe/u/linguistics)
+- [@massspec@a.gup.pe](https://a.gup.pe/u/massspec) (Mass Spectrometery Group - TeamMassSpec)
 - [@mechanobiology@a.gup.pe](https://a.gup.pe/u/mechanobiology)
 - [@medievodons@a.gup.pe](https://a.gup.pe/u/medievodons)
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
@@ -135,7 +137,7 @@ These bots provide automated access to a few preprint servers.
 - [@bioRxiv_biophys@botsin.space](https://botsin.space/web/@bioRxiv_biophys) bioRxiv biophysics RSS feed
 - [@Rxiv_cytoskeleton@botsin.space](https://botsin.space/web/@Rxiv_cytoskeleton) bioRxiv, arXiv and PubMed cytoskeleton-related feed
 - [@mechanobio@botsin.space](https://botsin.space/web/@mechanobio) bioRxiv, arXiv and PubMed mechanobiology-related feed
-- [@flypapers@botsin.space](https://botsin.space/web/@flypapers) bioRxiv, arXiv and PubMed Drosophila fruitfly-related feed 
+- [@flypapers@botsin.space](https://botsin.space/web/@flypapers) bioRxiv, arXiv and PubMed Drosophila fruitfly-related feed
 - [@j824h_arXiv_astro_ph](https://mathstodon.xyz/@j824h_arXiv_astro_ph) arXiv Astrophysics
 - [@EdArXivBot@botsin.space](https://botsin.space/@EdArXivBot) arXiv Education
 - [@PsyArXivBot@botsin.space](https://botsin.space/@PsyArXivBot) arXiv Psychology
@@ -155,7 +157,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Ausglam.space](https://ausglam.space/about) (Australasian Galleries, Libraries, Archives, Museums and Records)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
-- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
+- [ecoevo.social](https://ecoevo.social) (biological ecology and evolution)
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)
 - [EUPolicy.social](https://eupolicy.social/about)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)

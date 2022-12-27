@@ -154,6 +154,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Ausglam.space](https://ausglam.space/about) (Australasian Galleries, Libraries, Archives, Museums and Records)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
+- [Design Lounge](https://designlounge.social/) (Middle and High-School Design Teacher Community)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
 - [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)

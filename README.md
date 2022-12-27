@@ -173,6 +173,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Law Professors](https://mastodon.lawprofs.org/)
 - [Legal General Interest](https://esq.social)
 - [Mastodon.Art](https://mastodon.art/explore) (Creative Arts)
+- [Mastodon.energy](https://mastodon.energy/explore) (Energy & climate professionals)
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
 - [Med-Mammoth](https://med-mammoth.com/)

@@ -77,6 +77,8 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Technology Law & Policy](https://liveuclac-my.sharepoint.com/:x:/g/personal/ucqnmve_ucl_ac_uk/ES11jfqXsNVNpd1roXFokNkBzRux6n2xThtV4CsgqpSj8g?e=rKrajY) (Spreadsheet)
 - [Theologidons](https://docs.google.com/spreadsheets/d/1Es07iNFBy2fRpOPd7ZHw-MMqHG5Vi4wHvvO1xE3Co_k/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/1hyWwyXQpg5xqclT5d630QMfbunzaf14owBX5fQWNmFw/viewform))
 
+Select, opt-in lists are also available though [this handy web app](https://find.sciences.social/).
+
 ## Groups
 
 There are also groups over on Mastodon that you can use to connect to fellow academics. Start your own or view more groups [here](https://a.gup.pe/).

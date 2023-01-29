@@ -152,7 +152,7 @@ If you are in academia and do not know where to register your account in the fed
 
 - [18th Century Mastodon](https://c18.masto.host/) (For scholars of eighteenth-century global culture, history, literature, philosophy, and ideas)
 - [airpollution.science](https://airpollution.science/explore) (air pollution scientists)
-- [academiccloud.social](https://academiccloud.social/about) (Open for universities, higher education or research institutions in Lower Saxony (Germany), members of the Max Planck Society and other partners)
+- [academiccloud.social](https://academiccloud.social/about) (Login via [AcademicID](https://academiccloud.de/), which covers universities, higher education or research institutions in Lower Saxony (Germany), members of the Max Planck Society and other partners)
 - [akademienl.social](https://akademienl.social/explore) (focused primarily on Dutch academia)
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Astrodon.social](https://astrodon.social/explore) (Astronomy, astrophysics, astrophotography, and adjacent sciences)

@@ -199,6 +199,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Legal General Interest](https://esq.social)
 - [Mastodon.Art](https://mastodon.art/explore) (Creative Arts)
 - [Mastodon.energy](https://mastodon.energy/explore) (Energy & climate professionals)
+- [Mastodon.ngo](https://mastodon.ngo/about) (NGOs, nonprofits, and those in the human rights space)
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
 - [Med-Mammoth](https://med-mammoth.com/)

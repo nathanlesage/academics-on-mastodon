@@ -1,11 +1,8 @@
-# Academics on Mastodon 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Academics on Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > This repository contains a collection of various lists of academics on Mastodon. These lists are curated by many awesome folks across various disciplines, so make sure to give them kudos as well!
 
 ![Academics on Mastodon](./resources/hero.png)
-
----
 
 ## Table of Contents
 
@@ -17,13 +14,12 @@
 - [Contact](#contact) — for the legal stuff
 
 ---
-| ▲ [Top](#Academics-on-Mastodon) |
 
 ## Curated Account Lists
 
 The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
 
->  These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
+> These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 
 - [African Studies](https://docs.google.com/spreadsheets/d/1cZwBUZvKUwS84hoeEqq7h0NyiaeqmFtojaVqD5c5_08/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdoXGqL7CX6dHUTX1dt3HmZcBU_72aX1USIVLSnTkie76M0wA/viewform))
 - [Anthropology](https://fivestone.github.io/fedi-anthropologists/) ([Form to add yourself](https://docs.google.com/forms/d/1czaGLjjvYJ6iUlnwZ56kGCjNMqUYgHtQdhG3fwRSVTU))
@@ -88,7 +84,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 
 Select, opt-in lists are also available though [this handy web app](https://find.sciences.social/).
 
-| ▲ [Top](#Academics-on-Mastodon) |
+[▲ Top](#academics-on-mastodon-)
 
 ## Groups
 
@@ -141,7 +137,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 - [@WebScience@a.gup.pe](https://a.gup.pe/u/webscience) (Web Science)
 
-| ▲ [Top](#Academics-on-Mastodon) |
+[▲ Top](#academics-on-mastodon-)
 
 ## Preprint/bibliography bots
 
@@ -166,7 +162,7 @@ These bots provide automated access to a few preprint servers.
 - [@MetaArXivBot@botsin.space](https://botsin.space/@MetaArXivBot) arXiv research transparency and reproducibility
 - [@eartharxiv@qoto.org](https://qoto.org/@eartharxiv) arXiv Earth Science and related domains of planetary science.
 
-| ▲ [Top](#Academics-on-Mastodon) |
+[▲ Top](#academics-on-mastodon-)
 
 ## Servers/communities
 
@@ -228,7 +224,7 @@ If you are in academia and do not know where to register your account in the fed
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
 
-| ▲ [Top](#Academics-on-Mastodon) |
+[▲ Top](#academics-on-mastodon-)
 
 ## Additonal Resources
 - You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). 
@@ -238,7 +234,7 @@ If you are in academia and do not know where to register your account in the fed
 - [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
 - [OpenCheck.is](https://opencheck.is/people) - Additonal lists and a method of verification for those migrating from Twitter.
 
-| ▲ [Top](#Academics-on-Mastodon) |
+[▲ Top](#academics-on-mastodon-)
 
 ## Contribute
 

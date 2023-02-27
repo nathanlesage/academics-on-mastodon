@@ -9,14 +9,17 @@
 - [Curated Account Lists](#curated-account-lists) — find people to follow
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
+- [Additional Resources](#Additonal-Resources) — for guides and resources for navigating the platform 
 - [Contribute](#contribute) — contribute new lists, groups, and servers
 - [Contact](#contact) — for the legal stuff
+
+---
 
 ## Curated Account Lists
 
 The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
 
->  These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
+> These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 
 - [African Studies](https://docs.google.com/spreadsheets/d/1cZwBUZvKUwS84hoeEqq7h0NyiaeqmFtojaVqD5c5_08/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdoXGqL7CX6dHUTX1dt3HmZcBU_72aX1USIVLSnTkie76M0wA/viewform))
 - [Anthropology](https://fivestone.github.io/fedi-anthropologists/) ([Form to add yourself](https://docs.google.com/forms/d/1czaGLjjvYJ6iUlnwZ56kGCjNMqUYgHtQdhG3fwRSVTU))
@@ -81,6 +84,8 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 
 Select, opt-in lists are also available though [this handy web app](https://find.sciences.social/).
 
+[▲ Top](#academics-on-mastodon-)
+
 ## Groups
 
 There are also groups over on Mastodon that you can use to connect to fellow academics. Start your own or view more groups [here](https://a.gup.pe/).
@@ -101,11 +106,13 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
 - [@edutooters@a.gup.pe](https://a.gup.pe/u/edutooters)
 - [@epiverse@a.gup.pe](https://a.gup.pe/u/epiverse)(Epidermiologists)
+- [@ethnobiology@a.gup.pe](https://a.gup.pe/u/ethnobiology)
 - [@geodons@a.gup.pe](https://a.gup.pe/u/geodons)
 - [@geography@a.gup.pe](https://a.gup.pe/u/geography)
 - [@geopolitics@a.gup.pe](https://a.gup.pe/u/geopolitics)
 - [@histodons@a.gup.pe](https://a.gup.pe/u/histodons)
 - [@iiif@a.gup.pe](https://a.gup.pe/u/iiif) (International Image Interoperability Framework)
+- [@indianphilosophy@a.gup.pe](https://a.gup.pe/u/@indianphilosophy)  
 - [@immigration@a.gup.pe](https://a.gup.pe/u/immigration)
 - [@julialang@a.gup.pe](https://a.gup.pe/u/julialang) (The Julia programming language)
 - [@law@a.gup.pe](https://a.gup.pe/u/law)
@@ -116,6 +123,10 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@paleodons@a.gup.pe](https://a.gup.pe/u/paleodons)
 - [@paleofire@a.gup.pe](https://a.gup.pe/u/paleofire) (Fire reconstruction, paleoecology)
 - [@philosophy@a.gup.pe](https://a.gup.pe/u/philosophy)
+- [@philosophyofmind@a.gup.pe](https://a.gup.pe/u/philosophyofmind)  
+- [@philosophyofpsychiatry@a.gup.pe](https://a.gup.pe/u/philosophyofpsychiatry)
+- [@philosophyofreligion@a.gup.pe](https://a.gup.pe/u/philosophyofreligion)  
+- [@philosophyofscience@a.gup.pe](https://a.gup.pe/u/philosophyofscience)  
 - [@politicalscience@a.gup.pe](https://a.gup.pe/u/politicalscience)
 - [@psycholinguistics@a.gup.pe](https://a.gup.pe/u/psycholinguistics)
 - [@religion@a.gup.pe](https://a.gup.pe/u/religion)
@@ -125,6 +136,8 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@socialwork@a.gup.pe](https://a.gup.pe/u/socialwork)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
 - [@WebScience@a.gup.pe](https://a.gup.pe/u/webscience) (Web Science)
+
+[▲ Top](#academics-on-mastodon-)
 
 ## Preprint/bibliography bots
 
@@ -147,6 +160,9 @@ These bots provide automated access to a few preprint servers.
 - [@PsyArXivBot@botsin.space](https://botsin.space/@PsyArXivBot) arXiv Psychology
 - [@SocArXivBot@botsin.space](https://botsin.space/@SocArXivBot) arXiv Social Sciences
 - [@MetaArXivBot@botsin.space](https://botsin.space/@MetaArXivBot) arXiv research transparency and reproducibility
+- [@eartharxiv@qoto.org](https://qoto.org/@eartharxiv) arXiv Earth Science and related domains of planetary science.
+
+[▲ Top](#academics-on-mastodon-)
 
 ## Servers/communities
 
@@ -208,7 +224,17 @@ If you are in academia and do not know where to register your account in the fed
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
 
-> You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
+[▲ Top](#academics-on-mastodon-)
+
+## Additonal Resources
+- You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). 
+- Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. 
+- [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
+- Visit the [Mastodon Media List](https://docs.google.com/document/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/edit#heading=h.m7f2jiwk8u11) for a comprehensive list of Academic Journals and News Outlets.
+- [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
+- [OpenCheck.is](https://opencheck.is/people) - Additonal lists and a method of verification for those migrating from Twitter.
+
+[▲ Top](#academics-on-mastodon-)
 
 ## Contribute
 

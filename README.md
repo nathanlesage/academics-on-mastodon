@@ -161,6 +161,7 @@ These bots provide automated access to a few preprint servers.
 - [@SocArXivBot@botsin.space](https://botsin.space/@SocArXivBot) arXiv Social Sciences
 - [@MetaArXivBot@botsin.space](https://botsin.space/@MetaArXivBot) arXiv research transparency and reproducibility
 - [@eartharxiv@qoto.org](https://qoto.org/@eartharxiv) arXiv Earth Science and related domains of planetary science.
+- [@arxiv_ai@creative.ai](https://creative.ai/@arxiv_ai) arXiv Artifical Intelligence
 
 [▲ Top](#academics-on-mastodon-)
 

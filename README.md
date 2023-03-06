@@ -223,6 +223,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Synapse Cafe](https://synapse.cafe) (Neuroscience)
 - [Universeodon](https://universeodon.com/) (Astronomy, astrophysics, physics)
 - [Visualisation](https://vis.social) (SciArt, SciComm, data visualization, creative coding)
+- [WxCloud.social](https://wxcloud.social) (meteorology, climate, environment)
 - [writing.exchange](https://writing.exchange/explore) (Creative Writing)
 - [Zirkus](https://zirk.us) (literature, philosophy, film, music, culture, politics, history, architecture)
 

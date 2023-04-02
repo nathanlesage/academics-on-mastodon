@@ -70,6 +70,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Palaeogenomics](https://www.jafy.eu/Mastodon-Palaeogenomicists)
 - [Philosophers and Philosophy Teachers](https://eyssette.github.io/Mastodon-Philosophy/)
 - [Plant Science & Botany](https://docs.google.com/spreadsheets/d/1eimFqYMERb5uR4Sh5QOu1g4ZWosngj5nHQEpAeix55I/) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScJZnuK20hBwwLjTfnzXG0aj7F4taE7Ivlmj7HhgQarjpjs_g/viewform))
+- [Planetary Science](https://planetary-science.github.io/mastodon-planets/)
 - [Political Scientists](https://brentonpeterson.github.io/Mastodon-PoliScientists/)
 - [Psychology](https://kaitclark.github.io/mastodon-psychology/) ([Form to add yourself](https://uwe.eu.qualtrics.com/jfe/form/SV_6VDJQAi8E789Klg))
 - [Public Policy](https://howlettm.github.io/Mastodon-Policy/)

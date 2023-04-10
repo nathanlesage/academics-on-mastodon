@@ -17,7 +17,7 @@
 
 ## Curated Account Lists
 
-The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
+The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original webapp repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
 
 > These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 

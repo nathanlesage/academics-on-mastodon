@@ -174,6 +174,7 @@ If you are in academia and do not know where to register your account in the fed
 - [airpollution.science](https://airpollution.science/explore) (air pollution scientists)
 - [academiccloud.social](https://academiccloud.social/about) (Login via [AcademicID](https://academiccloud.de/), which covers universities, higher education or research institutions in Lower Saxony (Germany), members of the Max Planck Society and other partners)
 - [akademienl.social](https://akademienl.social/explore) (focused primarily on Dutch academia)
+- [aoir.social](https://aoir.social/explore) (For members of the Association of Internet Researchers)
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
 - [Astrodon.social](https://astrodon.social/explore) (Astronomy, astrophysics, astrophotography, and adjacent sciences)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)

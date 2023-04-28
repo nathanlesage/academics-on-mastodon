@@ -256,3 +256,7 @@ This list is primarily maintained by Hendrik Erz (Linköpings Universitet). Belo
 - Email: [hendrik.erz@liu.se](mailto:hendrik.erz@liu.se)
 - Mastodon: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz)
 - Office address and further contact info on my website, [hendrik-erz.de](https://www.hendrik-erz.de/)
+
+## License
+
+This list (but none of the linked content) is licensed via CC BY-NC 4.0 International. Please read the [License file](https://github.com/nathanlesage/academics-on-mastodon/blob/main/LICENSE) for further details and exceptions from this license.

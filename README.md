@@ -32,6 +32,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
 - [Biophysics](https://jocelynetienne.github.io/Mastodon-Biophysicists/)
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
+- [Cartography, Geovisualisation, and Digital Mapping](https://mapperfr.github.io/mastodon-cartographers/)
 - [Cheminformatics and Computational Chemistry](https://cheminformatics.netlify.app/)
 - [Chemistry](https://docs.google.com/spreadsheets/d/1qdJvHHvu-BC4N6nk1jNMhTwoBrIaqHLUCZRf9pCQwDs/) (Google Spreadsheet) ([Form to add yourself](https://forms.gle/gF9MLUGMWs23EFix6))
 - [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/) (Google Doc)

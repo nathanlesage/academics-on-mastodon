@@ -164,6 +164,12 @@ These bots provide automated access to a few preprint servers.
 - [@MetaArXivBot@botsin.space](https://botsin.space/@MetaArXivBot) arXiv research transparency and reproducibility
 - [@eartharxiv@qoto.org](https://qoto.org/@eartharxiv) arXiv Earth Science and related domains of planetary science.
 - [@arxiv_ai@creative.ai](https://creative.ai/@arxiv_ai) arXiv Artifical Intelligence
+- [@biorxiv_genomics@ecoevo.social](https://ecoevo.social/@biorxiv_genomics) bioRxiv genomics
+- [@biorxiv_genetics@ecoevo.social](https://ecoevo.social/@biorxiv_genetics) bioRxiv genetics
+- [@biorxiv_ecology@ecoevo.social](https://ecoevo.social/@biorxiv_ecology) bioRxiv ecology
+- [@biorxiv_evobio@ecoevo.social](https://ecoevo.social/@biorxiv_evobio) bioRxiv evolutionary biology
+- [@biorxiv_ecology@ecoevo.social](https://ecoevo.social/@biorxiv_ecology) bioRxiv ecology
+- [@biorxiv_bioinformatics@botsin.space](https://botsin.space/@biorxiv_bioinformatics) bioRxiv bioinformatics
 
 [▲ Top](#academics-on-mastodon-)
 

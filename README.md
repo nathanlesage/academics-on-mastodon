@@ -170,6 +170,7 @@ These bots provide automated access to a few preprint servers.
 - [@biorxiv_evobio@ecoevo.social](https://ecoevo.social/@biorxiv_evobio) bioRxiv evolutionary biology
 - [@biorxiv_ecology@ecoevo.social](https://ecoevo.social/@biorxiv_ecology) bioRxiv ecology
 - [@biorxiv_bioinformatics@botsin.space](https://botsin.space/@biorxiv_bioinformatics) bioRxiv bioinformatics
+- [@engrxiv@scicomm.xyz](https://scicomm.xyz/@engrxiv) Engineering Archive
 
 [▲ Top](#academics-on-mastodon-)
 

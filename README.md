@@ -104,6 +104,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@biophysics@a.gup.pe](https://a.gup.pe/u/biophysics)
 - [@dendrochronology@a.gup.pe](https://a.gup.pe/u/Dendrochronology) (Dendrochronology)
 - [@dh@a.gup.pe](https://a.gup.pe/u/dh) (Digital Humanities)
+- [@cogneurophys@a.gup.pe](https://a.gup.pe/u/cogneurophys) (cognitive neurophysiology)
 - [@cognition@a.gup.pe](https://a.gup.pe/u/cognition) (cognitive psychology)
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)

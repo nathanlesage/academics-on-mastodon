@@ -189,6 +189,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Ausglam.space](https://ausglam.space/about) (Australasian Galleries, Libraries, Archives, Museums and Records)
 - [baudigital.social](https://baudigital.social/) (Architecture, civil engineering, or urban studies; run by FID BAUdigital)
+- [Biologists.social](https://biologists.social/) (The Company of Biologists community server: cell biology, developmental biology and experimental biology)
 - [Climatescienc.es](https://climatescienc.es/explore) (Climate science and related fields)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [Design Lounge](https://designlounge.social/) (Middle and High-School Design Teacher Community)

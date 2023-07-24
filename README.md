@@ -179,7 +179,9 @@ These bots provide automated access to a few preprint servers.
 
 ## Servers/communities
 
-If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances:
+If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances.
+
+> If you would rather like to register on a university server but yours does not offer one, you could attempt to lobby for one by passing on [this call to action](https://netzpolitik.org/2023/a-call-to-action-universities-of-the-world-into-the-fediverse/).
 
 - [18th Century Mastodon](https://c18.masto.host/) (For scholars of eighteenth-century global culture, history, literature, philosophy, and ideas)
 - [airpollution.science](https://airpollution.science/explore) (air pollution scientists)

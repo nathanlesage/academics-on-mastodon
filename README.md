@@ -254,6 +254,7 @@ If you are in academia and do not know where to register your account in the fed
 - Visit the [Mastodon Media List](https://docs.google.com/document/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/edit#heading=h.m7f2jiwk8u11) for a comprehensive list of Academic Journals and News Outlets.
 - [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
 - [OpenCheck.is](https://opencheck.is/people) - Additonal lists and a method of verification for those migrating from Twitter.
+- [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences. Lemmy is a link aggregator Fediverse application, similar to Reddit.
 
 [▲ Top](#academics-on-mastodon-)
 

@@ -22,6 +22,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 > These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 
 - [African Studies](https://docs.google.com/spreadsheets/d/1cZwBUZvKUwS84hoeEqq7h0NyiaeqmFtojaVqD5c5_08/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdoXGqL7CX6dHUTX1dt3HmZcBU_72aX1USIVLSnTkie76M0wA/viewform))
+- [Animal Behaviour](https://animalbehaviour.live/mastodon/)
 - [Anthropology](https://fivestone.github.io/fedi-anthropologists/) ([Form to add yourself](https://docs.google.com/forms/d/1czaGLjjvYJ6iUlnwZ56kGCjNMqUYgHtQdhG3fwRSVTU))
 - [Archaeology](https://stark1tty.github.io/Mastodon-Archaeology/)
 - [Art and Design Teachers](https://docs.google.com/spreadsheets/d/11I1u6SnlJCy4cmuSIzPwmgpY-WK3fPVN2qRil_cWAvU/)

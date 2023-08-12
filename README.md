@@ -231,6 +231,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Qubit](https://qubit-social.xyz/about) (Scientists and engineers interested in quantum computing, sensing, and communication)
 - [redNiboe](https://red.niboe.info) (Academics in Latin America, invite only)
 - [Religion Mastodon](https://religion.masto.host) (Academic study of religion)
+- [Science.Social](https://science.social) (Science and Astronomy Mastodon Instance)
 - [Scholar.social](https://scholar.social/about) (invite only)
 - [Scholarship of Teaching and Learning (SoTL)](https://sotl.social)
 - [Scicomm.xyz](https://scicomm.xyz/about) (Science communicators)

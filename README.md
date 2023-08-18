@@ -198,6 +198,7 @@ If you are in academia and do not know where to register your account in the fed
 - [baudigital.social](https://baudigital.social/) (Architecture, civil engineering, or urban studies; run by FID BAUdigital)
 - [Biologists.social](https://biologists.social/) (The Company of Biologists community server: cell biology, developmental biology and experimental biology)
 - [Climatescienc.es](https://climatescienc.es/explore) (Climate science and related fields)
+- [Clinicians Exchange](https://mastodon.clinicians-exchange.org/) - (For mental health professionals and the general public to exchange ideas, resources and expertise including but not limited to ethics, politics, practice building, and clinical issues; See [here](https://www.clinicians-exchange.org/) for more info.)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [Design Lounge](https://designlounge.social/) (Middle and High-School Design Teacher Community)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
@@ -260,9 +261,17 @@ If you are in academia and do not know where to register your account in the fed
 - [OpenCheck.is](https://opencheck.is/people) - Additonal lists and a method of verification for those migrating from Twitter.
 
 ## Wider Fediverse Information
-- [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences. Lemmy is a link aggregator Fediverse application, similar to Reddit.
-- [Matrix](https://doc.matrix.tu-dresden.de/en/) guide from the University of Dresden. Matrix is a secure messaging application similar to Discord, Slack, Telegram and Whatsapp.
+### Lemmy
+Lemmy is a link aggregator Fediverse application, similar to Reddit.
 
+- [Clinicians Exchange](https://lem.clinicians-exchange.org/) - A Lemmy server for mental health professionals and the general public to exchange ideas related to mental health. (See [here](https://www.clinicians-exchange.org/) for more info.)
+- [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences. 
+  
+### Matrix
+Matrix is a secure messaging application similar to Discord, Slack, Telegram, and WhatsApp.
+
+- [Matrix](https://doc.matrix.tu-dresden.de/en/) guide from the University of Dresden.
+  
 [▲ Top](#academics-on-mastodon-)
 
 ## Contribute

@@ -54,7 +54,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Historians of Science, Medicine, and Technology](https://docs.google.com/spreadsheets/d/1MKivV_PkVZBAKBXpBkxNFEvjvYvUyE-DQHtujsh6Gww/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfBvVQv5TNW6s__ufEllGXiCP53zZuKLzYOoaaHFU7p7CiqKQ/viewform))
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
-- [Human-Computer Interaction](https://directory.hci.social/)
+- [Human-Computer Interaction](https://directory.hci.social/) - See also: [HCI Directory Bot](https://hci.social/@directory_bot)
 - [Information Security](https://docs.google.com/spreadsheets/d/1t13k5_cNhP9_TgoUmqDZk2ROkWkF6Bg3O5269vKIqWw/edit#gid=2024884983) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScxXz9Y7Y2xWs2mRyX6jZWe0UR4nFKBAXfXWsw-zEkxRuEZqQ/viewform?usp=sf_link))
 - [International Image Interoperability Framework (IIIF)](https://julsraemy.ch/mastodiiif/) ([Form to add yourself](https://forms.gle/2itCHkxcNPPXsm2G6))
 - [Islamic Studies/Middle Eastern Studies/Islamicate Studies/Oriental Studies](https://florisre.github.io/mastodon-iranian-studies/)

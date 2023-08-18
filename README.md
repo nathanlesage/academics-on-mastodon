@@ -9,7 +9,8 @@
 - [Curated Account Lists](#curated-account-lists) — find people to follow
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
-- [Additional Resources](#Additonal-Resources) — for guides and resources for navigating the platform 
+- [Additional Resources](#Additonal-Resources) — for guides and resources for navigating the platform
+- [Wider Fediverse Information](#Wider-Fediverse-Information) — for information and resources on other Fediverse applications
 - [Contribute](#contribute) — contribute new lists, groups, and servers
 - [Contact](#contact) — for the legal stuff
 
@@ -179,7 +180,7 @@ These bots provide automated access to a few preprint servers.
 
 [▲ Top](#academics-on-mastodon-)
 
-## Servers/communities
+## Servers/Communities
 
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances.
 
@@ -250,13 +251,17 @@ If you are in academia and do not know where to register your account in the fed
 
 [▲ Top](#academics-on-mastodon-)
 
-## Additonal Resources
+## Additional Resources
 - You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). 
 - Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. 
 - [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 - Visit the [Mastodon Media List](https://docs.google.com/document/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/edit#heading=h.m7f2jiwk8u11) for a comprehensive list of Academic Journals and News Outlets.
 - [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
 - [OpenCheck.is](https://opencheck.is/people) - Additonal lists and a method of verification for those migrating from Twitter.
+
+## Wider Fediverse Information
+- [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences. Lemmy is a link aggregator Fediverse application, similar to Reddit.
+- [Matrix](https://doc.matrix.tu-dresden.de/en/) guide from the University of Dresden. Matrix is a secure messaging application similar to Discord, Slack, Telegram and Whatsapp.
 
 [▲ Top](#academics-on-mastodon-)
 

@@ -277,6 +277,7 @@ Servers:
 ### Matrix
 [Matrix](https://matrix.org/) is a secure messaging application similar to Discord, Slack, Telegram, and WhatsApp.
 
+- [Element](https://element.io/) - Popular mobile, web, and desktop application for using the Matrix network. 
 - [Matrix](https://doc.matrix.tu-dresden.de/en/) guide from the University of Dresden.
 
 Servers:

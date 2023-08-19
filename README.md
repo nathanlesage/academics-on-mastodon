@@ -267,6 +267,7 @@ If you are in academia and do not know where to register your account in the fed
 - [fediverse.party](https://fediverse.party/en/miscellaneous/) - A listing of software on the Fediverse with descriptions.
 
 ### Lemmy/Kbin
+
 [Lemmy](https://join-lemmy.org/) and [Kbin](https://kbin.social/) are link aggregators on the Fediverse, similar to Reddit. They are generally compatible with each other.
 
 - [sub.rehab](https://sub.rehab/) - A listing of where Reddit servers have migrated to, mostly Lemmy/Kbin.

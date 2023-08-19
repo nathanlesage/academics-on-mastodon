@@ -262,6 +262,7 @@ If you are in academia and do not know where to register your account in the fed
 - [StreetPass](https://streetpass.social/) - A browser extension that alerts you to Mastodon verification links on a Web site.
 
 ## Wider Fediverse Information
+
 ### General
 - [fediverse.party](https://fediverse.party/en/miscellaneous/) - A listing of software on the Fediverse with descriptions.
 

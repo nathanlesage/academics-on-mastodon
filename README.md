@@ -278,6 +278,7 @@ If you are in academia and do not know where to register your account in the fed
 - [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences.
 
 ### Matrix
+
 [Matrix](https://matrix.org/) is a secure messaging application similar to Discord, Slack, Telegram, and WhatsApp.
 
 - [Element](https://element.io/) - Popular mobile, web, and desktop application for using the Matrix network. 

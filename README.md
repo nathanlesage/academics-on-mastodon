@@ -284,7 +284,8 @@ If you are in academia and do not know where to register your account in the fed
 - [Element](https://element.io/) - Popular mobile, web, and desktop application for using the Matrix network. 
 - [Matrix](https://doc.matrix.tu-dresden.de/en/) guide from the University of Dresden.
 
-Servers:
+#### Servers
+
 - Archaeology: ```matrix.archaeo.social```
   
 [▲ Top](#academics-on-mastodon-)

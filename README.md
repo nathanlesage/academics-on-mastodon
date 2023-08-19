@@ -272,7 +272,8 @@ If you are in academia and do not know where to register your account in the fed
 
 - [sub.rehab](https://sub.rehab/) - A listing of where Reddit servers have migrated to, mostly Lemmy/Kbin.
 
-Servers:
+#### Servers
+
 - [Clinicians Exchange](https://lem.clinicians-exchange.org/) - A Lemmy server for mental health professionals and the general public to exchange ideas related to mental health. See [here](https://www.clinicians-exchange.org/) for more info.
 - [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences.
 

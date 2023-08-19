@@ -10,7 +10,7 @@
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
 - [Additional Resources](#additional-resources) — for guides and resources for navigating the platform
-- [Wider Fediverse Information](#Wider-Fediverse-Information) — for information and resources on other Fediverse applications
+- [Wider Fediverse Information](#wider-fediverse-information) — for information and resources on other Fediverse applications
 - [Contribute](#contribute) — contribute new lists, groups, and servers
 - [Contact](#contact) — for the legal stuff
 

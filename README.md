@@ -105,6 +105,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@anthropology@a.gup.pe](https://social.tchncs.de/web/@anthropology@a.gup.pe)
 - [@antiquidons@a.gup.pe](https://a.gup.pe/u/antiquidons)
 - [@archaeodons@a.gup.pe](https://social.tchncs.de/web/@archaeodons@a.gup.pe)
+- [@astrophysics@a.gup.pe](https://a.gup.pe/u/astrophysics)
 - [@biophysics@a.gup.pe](https://a.gup.pe/u/biophysics)
 - [@dendrochronology@a.gup.pe](https://a.gup.pe/u/Dendrochronology) (Dendrochronology)
 - [@dh@a.gup.pe](https://a.gup.pe/u/dh) (Digital Humanities)

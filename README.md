@@ -42,7 +42,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
 - [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform)) 
 - [Dendrochronology](https://ronaldvisser.github.io/Mastodon-Dendrochronology/)
-- [Digital Humanities](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
+- [Digital Humanities](https://frederik-elwert.github.io/Mastodon-Digital-Humanists/) (Based on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/15Ak4VHCnr_4Stkzkz-_RhOgX-jCJMt0oq0GN9XXDaKo/); [Form to add yourself](https://forms.gle/iyNaKV4kunzFG8rr5))
 - [Earth Science](https://all-geo.org/mastodon-earthsci/) ([Form to add yourself](https://forms.gle/iYvKHFWajKjEewsY7))
 - [Economics (RePEc)](https://ideas.repec.org/i/emastodon.html)
 - [Education](https://docs.google.com/spreadsheets/d/1beJHWsuB0MJDMqeg_q8pBRWRdQImY-n8E6PttoJLFaM/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdzCcJb12XQ_ZrGg7TaCnGHCm6u1Ez1K3N88UbX8MbcnScifQ/viewform))

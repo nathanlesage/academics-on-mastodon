@@ -9,7 +9,8 @@
 - [Curated Account Lists](#curated-account-lists) — find people to follow
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
-- [Additional Resources](#Additonal-Resources) — for guides and resources for navigating the platform 
+- [Additional Resources](#additional-resources) — for guides and resources for navigating the platform
+- [Wider Fediverse Information](#wider-fediverse-information) — for information and resources on other Fediverse applications
 - [Contribute](#contribute) — contribute new lists, groups, and servers
 - [Contact](#contact) — for the legal stuff
 
@@ -53,7 +54,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Historians of Science, Medicine, and Technology](https://docs.google.com/spreadsheets/d/1MKivV_PkVZBAKBXpBkxNFEvjvYvUyE-DQHtujsh6Gww/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfBvVQv5TNW6s__ufEllGXiCP53zZuKLzYOoaaHFU7p7CiqKQ/viewform))
 - [History and Philosophy of Science](https://oliviodare.github.io/mastodon-hps/)
 - [History](https://docs.google.com/spreadsheets/d/1zmuH0ffMpCNOEjsReMk5iiqGwiUvhO2TtrM8QKu98SE/htmlview#gid=844879137) (Google Spreadsheet)
-- [Human-Computer Interaction](https://directory.hci.social/)
+- [Human-Computer Interaction](https://directory.hci.social/) - See also: [HCI Directory Bot](https://hci.social/@directory_bot)
 - [Information Security](https://docs.google.com/spreadsheets/d/1t13k5_cNhP9_TgoUmqDZk2ROkWkF6Bg3O5269vKIqWw/edit#gid=2024884983) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScxXz9Y7Y2xWs2mRyX6jZWe0UR4nFKBAXfXWsw-zEkxRuEZqQ/viewform?usp=sf_link))
 - [International Image Interoperability Framework (IIIF)](https://julsraemy.ch/mastodiiif/) ([Form to add yourself](https://forms.gle/2itCHkxcNPPXsm2G6))
 - [Islamic Studies/Middle Eastern Studies/Islamicate Studies/Oriental Studies](https://florisre.github.io/mastodon-iranian-studies/)
@@ -179,9 +180,9 @@ These bots provide automated access to a few preprint servers.
 
 [▲ Top](#academics-on-mastodon-)
 
-## Servers/communities
+## Servers/Communities
 
-If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances.
+If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances. For a comprehensive guide to migrating servers [click here](https://guide.cutie.city/the-fediverse/migrating-servers/).
 
 > If you would rather like to register on a university server but yours does not offer one, you could attempt to lobby for one by passing on [this call to action](https://netzpolitik.org/2023/a-call-to-action-universities-of-the-world-into-the-fediverse/).
 
@@ -191,12 +192,14 @@ If you are in academia and do not know where to register your account in the fed
 - [akademienl.social](https://akademienl.social/explore) (focused primarily on Dutch academia)
 - [aoir.social](https://aoir.social/explore) (For members of the Association of Internet Researchers)
 - [Archaeo.Social](https://archaeo.social/about) (Anthropologists/Archaeologists/Historians)
+- [Association for Computing Machinery (ACM) Official Instance](https://mastodon.acm.org/explore) (Computing professionals)
 - [Astrodon.social](https://astrodon.social/explore) (Astronomy, astrophysics, astrophotography, and adjacent sciences)
 - [Atmoschem](https://atmoschem.org/explore) (Atmospheric science & adjacent sciences)
 - [Ausglam.space](https://ausglam.space/about) (Australasian Galleries, Libraries, Archives, Museums and Records)
 - [baudigital.social](https://baudigital.social/) (Architecture, civil engineering, or urban studies; run by FID BAUdigital)
 - [Biologists.social](https://biologists.social/) (The Company of Biologists community server: cell biology, developmental biology and experimental biology)
 - [Climatescienc.es](https://climatescienc.es/explore) (Climate science and related fields)
+- [Clinicians Exchange](https://mastodon.clinicians-exchange.org/) - (For mental health professionals and the general public to exchange ideas, resources and expertise including but not limited to ethics, politics, practice building, and clinical issues; See [here](https://www.clinicians-exchange.org/) for more info.)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [Design Lounge](https://designlounge.social/) (Middle and High-School Design Teacher Community)
 - [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
@@ -206,8 +209,9 @@ If you are in academia and do not know where to register your account in the fed
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
 - [Fediphilosophy](https://fediphilosophy.org/) (Mastodon instance for academic philosophers; [server guide & rules](https://github.com/xiyudu/fediphilosophy))
 - [Fediscience](https://fediscience.org) (General science)
+- [The Folklore Cafe](https://thefolklore.cafe/) (Myths, legends, and folklore)
 - [Genomic.Social](https://genomic.social/explore) (Genomic Science Community)
-- [glammr.us](https://glammr.us/about) (galleries, libraries, archives, museums, and special collections, records, memory work)
+- [glammr.us](https://glammr.us/about) (Galleries, libraries, archives, museums, and special collections, records, memory work)
 - [h-net.social](https://h-net.social/) (Humanities and Social Sciences scholars, hosted by H-Net)
 - [High Performance Computing](https://mast.hpc.social)
 - [Historians.Social](https://historians.social/)
@@ -250,14 +254,42 @@ If you are in academia and do not know where to register your account in the fed
 
 [▲ Top](#academics-on-mastodon-)
 
-## Additonal Resources
+## Additional Resources
 - You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). 
 - Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. 
 - [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
 - Visit the [Mastodon Media List](https://docs.google.com/document/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/edit#heading=h.m7f2jiwk8u11) for a comprehensive list of Academic Journals and News Outlets.
 - [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
-- [OpenCheck.is](https://opencheck.is/people) - Additonal lists and a method of verification for those migrating from Twitter.
+- [OpenCheck.is](https://opencheck.is/people) - Additional lists and a verification method for those migrating from Twitter.
+- [StreetPass](https://streetpass.social/) - A browser extension that alerts you to Mastodon verification links on a Web site.
 
+## Wider Fediverse Information
+
+### General
+- [fediverse.party](https://fediverse.party/en/miscellaneous/) - A listing of software on the Fediverse with descriptions.
+
+### Lemmy/Kbin
+
+[Lemmy](https://join-lemmy.org/) and [Kbin](https://kbin.social/) are link aggregators on the Fediverse, similar to Reddit. They are generally compatible with each other.
+
+- [sub.rehab](https://sub.rehab/) - A listing of where Reddit servers have migrated to, mostly Lemmy/Kbin.
+
+#### Servers
+
+- [Clinicians Exchange](https://lem.clinicians-exchange.org/) - A Lemmy server for mental health professionals and the general public to exchange ideas related to mental health. See [here](https://www.clinicians-exchange.org/) for more info.
+- [mander.xyz](https://mander.xyz/) - A Lemmy server dedicated to the sciences.
+
+### Matrix
+
+[Matrix](https://matrix.org/) is a secure messaging application similar to Discord, Slack, Telegram, and WhatsApp.
+
+- [Element](https://element.io/) - Popular mobile, web, and desktop application for using the Matrix network. 
+- [Matrix](https://doc.matrix.tu-dresden.de/en/) guide from the University of Dresden.
+
+#### Servers
+
+- Archaeology: ```matrix.archaeo.social```
+  
 [▲ Top](#academics-on-mastodon-)
 
 ## Contribute

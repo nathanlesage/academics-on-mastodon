@@ -10,8 +10,8 @@
 - [Official University Accounts](#official-university-accounts) — see what institutions are pioneering on the Fediverse
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
-- [Additional Resources](#additional-resources) — for guides and resources for navigating the platform
 - [Wider Fediverse Information](#wider-fediverse-information) — for information and resources on other Fediverse applications
+- [Additional Resources](#additional-resources) — for guides and resources for navigating the platform
 - [Contribute](#contribute) — contribute new lists, groups, and servers
 - [Contact](#contact) — for the legal stuff
 
@@ -144,7 +144,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@cogsci@a.gup.pe](https://a.gup.pe/u/cogsci)
 - [@ecologies@a.gup.pe](https://a.gup.pe/u/ecologies)
 - [@edutooters@a.gup.pe](https://a.gup.pe/u/edutooters)
-- [@epiverse@a.gup.pe](https://a.gup.pe/u/epiverse)(Epidermiologists)
+- [@epiverse@a.gup.pe](https://a.gup.pe/u/epiverse) (Epidermiologists)
 - [@ethnobiology@a.gup.pe](https://a.gup.pe/u/ethnobiology)
 - [@geodons@a.gup.pe](https://a.gup.pe/u/geodons)
 - [@geography@a.gup.pe](https://a.gup.pe/u/geography)
@@ -285,15 +285,6 @@ If you are in academia and do not know where to register your account in the fed
 
 [▲ Top](#academics-on-mastodon-)
 
-## Additional Resources
-- You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). 
-- Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. 
-- [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
-- Visit the [Mastodon Media List](https://docs.google.com/document/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/edit#heading=h.m7f2jiwk8u11) for a comprehensive list of Academic Journals and News Outlets.
-- [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
-- [OpenCheck.is](https://opencheck.is/people) - Additional lists and a verification method for those migrating from Twitter.
-- [StreetPass](https://streetpass.social/) - A browser extension that alerts you to Mastodon verification links on a Web site.
-
 ## Wider Fediverse Information
 
 ### General
@@ -322,6 +313,20 @@ If you are in academia and do not know where to register your account in the fed
 - Archaeology: ```matrix.archaeo.social```
   
 [▲ Top](#academics-on-mastodon-)
+
+## Additional Mastodon Resources
+- You can find [a comprehensive list of these and many more academic Mastodon servers on fediscience.org](https://fediscience.org/server-list.html). 
+- Visit [fedi.tips](https://fedi.tips) for a general beginners guide to Mastodon. 
+- [hcommons.org has created a quick start guide specifically for researchers in the humanities](https://hcommons.org/docs/mastodon-quick-start-guide-for-humanities-scholars/) that also includes a short list of instances that are tailored to humanities specifically.
+- Visit the [Mastodon Media List](https://docs.google.com/document/d/1TTtXbf0yDXHKXwR9jpZ4kU79mmiZT5KIM7U4tBr83hY/edit#heading=h.m7f2jiwk8u11) for a comprehensive list of Academic Journals and News Outlets.
+- [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
+- [OpenCheck.is](https://opencheck.is/people) - Additional lists and a verification method for those migrating from Twitter.
+- [StreetPass](https://streetpass.social/) - A browser extension that alerts you to Mastodon verification links on a Web site.
+
+[▲ Top](#academics-on-mastodon-)
+
+---
+---
 
 ## Contribute
 

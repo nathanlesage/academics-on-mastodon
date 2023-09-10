@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Curated Account Lists](#curated-account-lists) — find people to follow
+- [Official University Accounts](#official-university-accounts) — see what institutions are pioneering on the Fediverse
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
 - [Additional Resources](#additional-resources) — for guides and resources for navigating the platform
@@ -90,6 +91,35 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Theologidons](https://docs.google.com/spreadsheets/d/1Es07iNFBy2fRpOPd7ZHw-MMqHG5Vi4wHvvO1xE3Co_k/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/1hyWwyXQpg5xqclT5d630QMfbunzaf14owBX5fQWNmFw/viewform))
 
 Select, opt-in lists are also available though [this handy web app](https://find.sciences.social/).
+
+[▲ Top](#academics-on-mastodon-)
+
+## Official University Accounts
+
+This list includes only *official* university-affiliated accounts.
+
+- **Austria**
+  - [@uniinnsbruck@social.uibk.ac.at](https://social.uibk.ac.at/@uniinnsbruck) - Universität Innsbruck
+
+- **Germany**
+  - [@Uni_Stuttgart@bawü.social](https://bawü.social/@Uni_Stuttgart) - Univ. of Stuttgart
+  - [@unifreiburg@bawü.social](https://bawü.social/@unifreiburg) - Univ. of Freiburg
+  - [@unituebingen@bawü.social](https://bawü.social/@unituebingen) - Univ. of Tübingen
+  - [@unihohenheim@bawü.social](https://bawü.social/@unihohenheim) - Universität Hohenheim
+
+- **Ireland**
+  - [@UL@mastodon.ie](https://mastodon.ie/@UL) - Univ. of Limerick
+
+- **Netherlands**
+  - [@Radboud_uni@mastodon.social](https://mastodon.social/@Radboud_uni) - Radboud Univ.
+  - [@Bibliothecaris@social.edu.nl](https://social.edu.nl/@Bibliothecaris) - Library at Univ. of Groningen
+
+- **United Kingdom**
+  - [@uniofaberdeen@mastodon.scot](https://mastodon.scot/@uniofaberdeen) - Univ. of Aberdeen
+  - [@plymuni@mastodonapp.uk](https://mastodonapp.uk/@plymuni) - Univ. of Plymouth
+
+- **United States**
+  - [@YaleDivinitySchool@mstdn.social](https://mstdn.social/@YaleDivinitySchool) - Theological school at Yale Univ
 
 [▲ Top](#academics-on-mastodon-)
 

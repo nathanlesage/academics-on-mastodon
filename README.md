@@ -144,6 +144,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 - [@semanticweb@a.gup.pe](https://a.gup.pe/u/semanticweb) (Semantic Web)
 - [@socialwork@a.gup.pe](https://a.gup.pe/u/socialwork)
 - [@sociology@a.gup.pe](https://a.gup.pe/u/sociology)
+- [@sts@a.gup.pe](https://a.gup.pe/u/sts) (Science and Technology Studies)
 - [@WebScience@a.gup.pe](https://a.gup.pe/u/webscience) (Web Science)
 
 [▲ Top](#academics-on-mastodon-)

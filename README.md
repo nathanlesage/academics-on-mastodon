@@ -216,7 +216,7 @@ These bots provide automated access to a few preprint servers.
 - [@biorxiv_molbio@biologists.social](https://biologists.social/@biorxiv_molbio) bioRxiv Molecular Biology
 - [@biorxiv_neursci@biologists.social](https://biologists.social/@biorxiv_neursci) bioRxiv Neuroscience
 - [@biorxiv_paleo@biologists.social](https://biologists.social/@biorxiv_paleo) bioRxiv Paleontology
-- [@biorxiv_pathol@biologists.social](https://biologists.social/@biorxiv_pathol) bioRxiv Pathology
+- [@biorxiv_pathology@biologists.social](https://biologists.social/@biorxiv_pathology) bioRxiv Pathology
 - [@biorxiv_pharma@biologists.social](https://biologists.social/@biorxiv_pharma) bioRxiv Pharmacology
 - [@biorxiv_physio@biologists.social](https://biologists.social/@biorxiv_physio) bioRxiv Physiology
 - [@biorxiv_plants@biologists.social](https://biologists.social/@biorxiv_plants) bioRxiv Plant Biology

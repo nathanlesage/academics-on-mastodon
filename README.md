@@ -206,7 +206,7 @@ These bots provide automated access to a few preprint servers.
 - [@biorxiv_biophys@biologists.social](https://biologists.social/@biorxiv_biophys) bioRxiv Biophysics
 - [@biorxiv_cancer@biologists.social](https://biologists.social/@biorxiv_cancer) bioRxiv Cancer Biology
 - [@biorxiv_cellbio@biologists.social](https://biologists.social/@biorxiv_cellbio) bioRxiv Cell Biology
-- [@biorxiv_devbio@biologists.social](https://biologists.social/@biorxiv_devbio) bioRxiv Development Biology
+- [@biorxiv_devbio@biologists.social](https://biologists.social/@biorxiv_devbio) bioRxiv Developmental Biology
 - [@biorxiv_ecology@biologists.social](https://biologists.social/@biorxiv_ecology) bioRxiv Ecology
 - [@biorxiv_evobio@biologists.social](https://biologists.social/@biorxiv_evobio) bioRxiv Evolutionary Biology
 - [@biorxiv_genetic@biologists.social](https://biologists.social/@biorxiv_genetic) bioRxiv Genetics

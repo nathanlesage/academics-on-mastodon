@@ -106,6 +106,9 @@ This list includes only *official* university-affiliated accounts.
   - [@unifreiburg@bawü.social](https://bawü.social/@unifreiburg) - Univ. of Freiburg
   - [@unituebingen@bawü.social](https://bawü.social/@unituebingen) - Univ. of Tübingen
   - [@unihohenheim@bawü.social](https://bawü.social/@unihohenheim) - Universität Hohenheim
+  - [@tu_muenchen@wisskomm.social](https://wisskomm.social/@tu_muenchen) - Technical University of Munich
+  - [@unibremen@wisskomm.social](https://wisskom.social/@unibremen) - University of Bremen
+  - [@KIT_Karlsruhe@mastodon.social](https://mastodon.social/@KIT_Karlsruhe) - Karlsruhe Institute of Technology
 
 - **Ireland**
   - [@UL@mastodon.ie](https://mastodon.ie/@UL) - Univ. of Limerick

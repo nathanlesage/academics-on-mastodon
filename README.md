@@ -190,8 +190,6 @@ These bots provide automated access to a few preprint servers.
 - [@arxiv_math@qoto.org](https://qoto.org/web/@arxiv_math) arXiv Math
 - [@arxiv_cs@qoto.org](https://qoto.org/web/@arxiv_cs) arXiv Computer Science
 - [@arxivstats@botsin.space](https://botsin.space/web/@arxivstats) arXiv stats
-- [@bioRxiv_cellbiol@botsin.space](https://botsin.space/web/@bioRxiv_cellbiol) bioRxiv cell biology RSS feed
-- [@bioRxiv_biophys@botsin.space](https://botsin.space/web/@bioRxiv_biophys) bioRxiv biophysics RSS feed
 - [@Rxiv_cytoskeleton@botsin.space](https://botsin.space/web/@Rxiv_cytoskeleton) bioRxiv, arXiv and PubMed cytoskeleton-related feed
 - [@mechanobio@botsin.space](https://botsin.space/web/@mechanobio) bioRxiv, arXiv and PubMed mechanobiology-related feed
 - [@flypapers@botsin.space](https://botsin.space/web/@flypapers) bioRxiv, arXiv and PubMed Drosophila fruitfly-related feed 
@@ -202,12 +200,30 @@ These bots provide automated access to a few preprint servers.
 - [@MetaArXivBot@botsin.space](https://botsin.space/@MetaArXivBot) arXiv research transparency and reproducibility
 - [@eartharxiv@qoto.org](https://qoto.org/@eartharxiv) arXiv Earth Science and related domains of planetary science.
 - [@arxiv_ai@creative.ai](https://creative.ai/@arxiv_ai) arXiv Artifical Intelligence
-- [@biorxiv_genomics@ecoevo.social](https://ecoevo.social/@biorxiv_genomics) bioRxiv genomics
-- [@biorxiv_genetics@ecoevo.social](https://ecoevo.social/@biorxiv_genetics) bioRxiv genetics
-- [@biorxiv_ecology@ecoevo.social](https://ecoevo.social/@biorxiv_ecology) bioRxiv ecology
-- [@biorxiv_evobio@ecoevo.social](https://ecoevo.social/@biorxiv_evobio) bioRxiv evolutionary biology
-- [@biorxiv_ecology@ecoevo.social](https://ecoevo.social/@biorxiv_ecology) bioRxiv ecology
-- [@biorxiv_bioinformatics@botsin.space](https://botsin.space/@biorxiv_bioinformatics) bioRxiv bioinformatics
+- [@biorxiv_behav@biologists.social](https://biologists.social/@biorxiv_behav) bioRxiv Animal Behavior and Cognition
+- [@biorxiv_biochem@biologists.social](https://biologists.social/@biorxiv_biochem) bioRxiv Biochemistry
+- [@biorxiv_bioinfo@biologists.social](https://biologists.social/@biorxiv_bioinfo) bioRxiv Bioinformatics
+- [@biorxiv_biophys@biologists.social](https://biologists.social/@biorxiv_biophys) bioRxiv Biophysics
+- [@biorxiv_cancer@biologists.social](https://biologists.social/@biorxiv_cancer) bioRxiv Cancer Biology
+- [@biorxiv_cellbio@biologists.social](https://biologists.social/@biorxiv_cellbio) bioRxiv Cell Biology
+- [@biorxiv_devbio@biologists.social](https://biologists.social/@biorxiv_devbio) bioRxiv Development Biology
+- [@biorxiv_ecology@biologists.social](https://biologists.social/@biorxiv_ecology) bioRxiv Ecology
+- [@biorxiv_evobio@biologists.social](https://biologists.social/@biorxiv_evobio) bioRxiv Evolutionary Biology
+- [@biorxiv_genetic@biologists.social](https://biologists.social/@biorxiv_genetic) bioRxiv Genetics
+- [@biorxiv_genomic@biologists.social](https://biologists.social/@biorxiv_genomic) bioRxiv Genomics
+- [@biorxiv_immuno@biologists.social](https://biologists.social/@biorxiv_immuno) bioRxiv Immunology
+- [@biorxiv_micrbio@biologists.social](https://biologists.social/@biorxiv_micrbio) bioRxiv Microbiology
+- [@biorxiv_molbio@biologists.social](https://biologists.social/@biorxiv_molbio) bioRxiv Molecular Biology
+- [@biorxiv_neursci@biologists.social](https://biologists.social/@biorxiv_neursci) bioRxiv Neuroscience
+- [@biorxiv_paleo@biologists.social](https://biologists.social/@biorxiv_paleo) bioRxiv Palentology
+- [@biorxiv_pathol@biologists.social](https://biologists.social/@biorxiv_pathol) bioRxiv Pathology
+- [@biorxiv_pharma@biologists.social](https://biologists.social/@biorxiv_pharma) bioRxiv Pharmacology
+- [@biorxiv_physio@biologists.social](https://biologists.social/@biorxiv_physio) bioRxiv Physiology
+- [@biorxiv_plants@biologists.social](https://biologists.social/@biorxiv_plants) bioRxiv Plant Biology
+- [@biorxiv_scicomm@biologists.social](https://biologists.social/@biorxiv_scicomm) bioRxiv Scientific Communication and Education
+- [@biorxiv_synthbio@biologists.social](https://biologists.social/@biorxiv_synthbio) bioRxiv Synthetic Biology
+- [@biorxiv_sysbio@biologists.social](https://biologists.social/@biorxiv_sysbio) bioRxiv Systems Biology
+- [@biorxiv_zoology@biologists.social](https://biologists.social/@biorxiv_zoology) bioRxiv Zoology
 - [@engrxiv@scicomm.xyz](https://scicomm.xyz/@engrxiv) Engineering Archive
 
 [▲ Top](#academics-on-mastodon-)

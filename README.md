@@ -265,6 +265,7 @@ If you are in academia and do not know where to register your account in the fed
 - [mstdn.science](https://mstdn.science/explore) (Primarily Microbiology, but all sciences welcome.)
 - [Open Educational Resources](https://mastodon.oeru.org)
 - [OpenBiblio](https://openbiblio.social/) (For German speaking librarians and information specialists)
+- [polsci.social](https://polsci.social/) (For political scientists)
 - [Qubit](https://qubit-social.xyz/about) (Scientists and engineers interested in quantum computing, sensing, and communication)
 - [redNiboe](https://red.niboe.info) (Academics in Latin America, invite only)
 - [Religion Mastodon](https://religion.masto.host) (Academic study of religion)

@@ -32,6 +32,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Asian Studies](https://docs.google.com/spreadsheets/d/10kKyUrBbB5r66xUeuPzV3pM098VqTG7jVTKNSacdCzA/) (Google Spreadsheet) ([Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLScTMCM_gzW3MtxHnFt16huEpVclmV9yQXA7TZqHZ3r3vslB-Q/viewform))
 - [Astrophysics](https://www.sebastienmaret.net/astrophysicists-on-mastodon/)
 - [Atmospheric science and air quality](https://jorgesat.github.io/Mastodon-Atmospheric/) ([Google form](https://forms.gle/z9HQNhWFGzGnW5Xa7) to add yourself)
+- [Audition and hearing sciences](https://leovarnet.github.io/Mastodon-Audition/) ([Form to add yourself](https://framaforms.org/audition-scientists-on-mastodon-1697965056))
 - [Biblical Studies](https://docs.google.com/spreadsheets/d/1FLKTR3pgFeFwf1VAzCLLokAjyWeGwromfmyndRpYwXw/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/1D1f6oxBBqPFXxcU6))
 - [Bioinformatics](https://emiller88.github.io/Mastodon-Bioinformatics/)
 - [Biophysics](https://jocelynetienne.github.io/Mastodon-Biophysicists/)

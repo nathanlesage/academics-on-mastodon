@@ -344,6 +344,7 @@ If you are in academia and do not know where to register your account in the fed
 - [TrueSciPhi.org](https://truesciphi.org/) - Various comprehensive science, philosophy, and mathematics lists covering podcasts, Mastodon, and Twitter.
 - [OpenCheck.is](https://opencheck.is/people) - Additional lists and a verification method for those migrating from Twitter.
 - [StreetPass](https://streetpass.social/) - A browser extension that alerts you to Mastodon verification links on a Web site.
+- [Why Educational Institutions Should Use and Teach Free Software](https://www.gnu.org/education/edu-why.en.html) - FOSS ethos for educators.
 
 [▲ Top](#academics-on-mastodon-)
 

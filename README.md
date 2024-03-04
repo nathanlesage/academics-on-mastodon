@@ -65,7 +65,6 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Linguists](https://etherpad.wikimedia.org/p/mastodonlinguists)
 - [Literary Studies](https://docs.google.com/spreadsheets/d/172wtP1Upmv-uUoIAqgTFwP2-_cPdM0Egz5xkTGBbjZU/htmlview) (Google Spreadsheet)
 - [Marketing and Consumer Research](https://lpomfret.github.io/Mastodon-Marketing/)
-- [Mass Spec](https://sidhuk.github.io/Mastodon-TeamMassSpec/)
 - [Medical AI](https://docs.google.com/spreadsheets/d/1-m0s4lg1JKB6y0fVTbM298Ex8PnUzZVwPjQbJz3Rm4E/)
 - [Medieval History (Medievodons)](https://docs.google.com/spreadsheets/d/10OdDb5R0u-IQ331Xpom6X6fsArdJvXFt1X5K2dLudhU/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/wv3pomSJhS4EWSb89))
 - [Meteorology & Weather](https://docs.google.com/spreadsheets/d/1_9V5q0bLYqPNnbcHzut0eyMGLGTkNXyK6LR-EDcpfdc/) (Google Spreadsheet) [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSfALCNv2I0WRmGpoNDn34PPDH0aHrqIdbWUGCkoFMmgQCbKzw/viewform)
@@ -279,7 +278,6 @@ If you are in academia and do not know where to register your account in the fed
 - [Mastodon.ngo](https://mastodon.ngo/about) (NGOs, nonprofits, and those in the human rights space)
 - [Mathstodon](https://mathstodon.xyz)
 - [Mapstodon](https://mapstodon.space/) (GIS, mapping, geospatial and cartography professionals and enthusiasts)
-- [Med-Mammoth](https://med-mammoth.com/)
 - [Med-Mastodon](https://med-mastodon.com/about)
 - [Medievalist-Masto](https://medievalist.masto.host/)
 - [MIT](https://mastodon.mit.edu/explore) (Unoffical)
@@ -349,7 +347,6 @@ If you are in academia and do not know where to register your account in the fed
 
 [▲ Top](#academics-on-mastodon-)
 
----
 ---
 
 ## Contribute

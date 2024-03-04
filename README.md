@@ -11,7 +11,7 @@
 - [Groups](#groups) — tap into what people are saying
 - [Servers/Communities](#serverscommunities) — if you need to register for an account first, start here
 - [Wider Fediverse Information](#wider-fediverse-information) — for information and resources on other Fediverse applications
-- [Additional Resources](#additional-resources) — for guides and resources for navigating the platform
+- [Additional Resources](#additional-mastodon-resources) — for guides and resources for navigating the platform
 - [Contribute](#contribute) — contribute new lists, groups, and servers
 - [Contact](#contact) — for the legal stuff
 
@@ -21,6 +21,7 @@
 
 The following are curated lists of academic accounts on Mastodon by discipline. If you would like to start your own group, head over to the [original repository](https://github.com/trutzig89182/Mastodon-Sociologists), fork it, adapt it, and publish it. Then, make sure to add your list here by proposing a pull request!
 
+> [!NOTE]
 > These lists are opt-in only, so if you would like to appear on one or more of these lists, click their link. The lists provide instructions. Many lists even provide a form which you can fill in yourself. If you notice that a list violates the opt-in principle, [please notify us](#contact) so that we can take action.
 
 - [African Studies](https://docs.google.com/spreadsheets/d/1cZwBUZvKUwS84hoeEqq7h0NyiaeqmFtojaVqD5c5_08/) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdoXGqL7CX6dHUTX1dt3HmZcBU_72aX1USIVLSnTkie76M0wA/viewform))
@@ -187,6 +188,7 @@ There are also groups over on Mastodon that you can use to connect to fellow aca
 
 These bots provide automated access to a few preprint servers.
 
+> [!WARNING]
 > If you notice malicious behavior by these bots, [please notify us](#contact).
 
 - [@arxiv_physics@qoto.org](https://qoto.org/web/@arxiv_physics) arXiv Physics
@@ -236,10 +238,11 @@ These bots provide automated access to a few preprint servers.
 
 If you are in academia and do not know where to register your account in the fediverse, you may find some space on one of the following instances. For a comprehensive guide to migrating servers [click here](https://guide.cutie.city/the-fediverse/migrating-servers/).
 
+> [!TIP]
 > If you would rather like to register on a university server but yours does not offer one, you could attempt to lobby for one by passing on [this call to action](https://netzpolitik.org/2023/a-call-to-action-universities-of-the-world-into-the-fediverse/).
 
 - [18th Century Mastodon](https://c18.masto.host/) (For scholars of eighteenth-century global culture, history, literature, philosophy, and ideas)
-- [airpollution.science](https://airpollution.science/explore) (air pollution scientists)
+- [airpollution.science](https://airpollution.science/explore) (Air pollution scientists)
 - [academiccloud.social](https://academiccloud.social/about) (Login via [AcademicID](https://academiccloud.de/), which covers universities, higher education or research institutions in Lower Saxony (Germany), members of the Max Planck Society and other partners)
 - [akademienl.social](https://akademienl.social/explore) (focused primarily on Dutch academia)
 - [aoir.social](https://aoir.social/explore) (For members of the Association of Internet Researchers)
@@ -258,6 +261,7 @@ If you are in academia and do not know where to register your account in the fed
 - [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)
 - [EUPolicy.social](https://eupolicy.social/about)
+- [faculty.mastodon.stanford.edu](https://faculty.mastodon.stanford.edu/)
 - [Fedihum](https://fedihum.org) (Humanities, with a focus on Digital Humanities)
 - [Fediphilosophy](https://fediphilosophy.org/) (Mastodon instance for academic philosophers; [server guide & rules](https://github.com/xiyudu/fediphilosophy))
 - [Fediscience](https://fediscience.org) (General science)
@@ -309,6 +313,7 @@ If you are in academia and do not know where to register your account in the fed
 ## Wider Fediverse Information
 
 ### General
+
 - [fediverse.party](https://fediverse.party/en/miscellaneous/) - A listing of software on the Fediverse with descriptions.
 
 ### Lemmy/Kbin
@@ -357,7 +362,8 @@ Contributions welcome! Feel free to add academic lists or new groups and submit 
 
 This list is primarily maintained by Hendrik Erz (Linköpings Universitet). Below you can find ways to contact me in case you have individual questions regarding this collection of lists, or if you would report a potential opt-in violation (or similar issues).
 
-> **PLEASE NOTE**: This contact info is **not** meant to send me links to new lists. If you would like to add a list, please open a PR instead! In case that this somehow doesn't work for you, you can also [open an issue](https://github.com/nathanlesage/academics-on-mastodon/issues/new), state why the PR didn't work, and provide the link to the list (and optionally the form). I receive dozens of work-related emails via the address below, so by keeping everything list-related here on GitHub I can keep that separated. Thank you very much for your understanding.
+> [!CAUTION]
+> This contact info is **not** meant to send me links to new lists. If you would like to add a list, please open a PR instead! In case that this somehow doesn't work for you, you can also [open an issue](https://github.com/nathanlesage/academics-on-mastodon/issues/new), state why the PR didn't work, and provide the link to the list (and optionally the form). I receive dozens of work-related emails via the address below, so by keeping everything list-related here on GitHub I can keep that separated. Thank you very much for your understanding.
 
 - Email: [hendrik.erz@liu.se](mailto:hendrik.erz@liu.se)
 - Mastodon: [@hendrikerz@scholar.social](https://scholar.social/@hendrikerz)

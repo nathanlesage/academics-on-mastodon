@@ -124,6 +124,7 @@ This list includes only *official* university-affiliated accounts.
 
 - **United States**
   - [@YaleDivinitySchool@mstdn.social](https://mstdn.social/@YaleDivinitySchool) - Theological school at Yale Univ
+  - [@medlab@social.medlab.host](https://www.colorado.edu/lab/medlab/) - Media Economies Design Lab at University of Colorado
 
 [▲ Top](#academics-on-mastodon-)
 

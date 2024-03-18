@@ -110,6 +110,7 @@ This list includes only *official* university-affiliated accounts.
   - [@tu_muenchen@wisskomm.social](https://wisskomm.social/@tu_muenchen) - Technical University of Munich
   - [@unibremen@wisskomm.social](https://wisskomm.social/@unibremen) - University of Bremen
   - [@KIT_Karlsruhe@mastodon.social](https://mastodon.social/@KIT_Karlsruhe) - Karlsruhe Institute of Technology
+  - [@pdi@mastodon.social](https://mastodon.social/@pdi) - Paul Drude Institute for Solid State Electronics (PDI)
 
 - **Ireland**
   - [@UL@mastodon.ie](https://mastodon.ie/@UL) - Univ. of Limerick

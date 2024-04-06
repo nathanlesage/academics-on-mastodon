@@ -111,6 +111,7 @@ This list includes only *official* university-affiliated accounts.
   - [@unibremen@wisskomm.social](https://wisskomm.social/@unibremen) - University of Bremen
   - [@KIT_Karlsruhe@mastodon.social](https://mastodon.social/@KIT_Karlsruhe) - Karlsruhe Institute of Technology
   - [@pdi@mastodon.social](https://mastodon.social/@pdi) - Paul Drude Institute for Solid State Electronics (PDI)
+  - [@UniOldenburg@wisskomm.social](https://wisskomm.social/@UniOldenburg) - Carl von Ossietzky University of Oldenburg
 
 - **Ireland**
   - [@UL@mastodon.ie](https://mastodon.ie/@UL) - Univ. of Limerick

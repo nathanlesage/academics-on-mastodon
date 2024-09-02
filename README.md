@@ -102,6 +102,9 @@ This list includes only *official* university-affiliated accounts.
 - **Austria**
   - [@uniinnsbruck@social.uibk.ac.at](https://social.uibk.ac.at/@uniinnsbruck) - Universität Innsbruck
 
+- **France**
+  - [@collegedefrance@sciences.re](https://social.sciences.re/@collegedefrance) - Collège de France
+
 - **Germany**
   - [@Uni_Stuttgart@bawü.social](https://bawü.social/@Uni_Stuttgart) - Univ. of Stuttgart
   - [@unifreiburg@bawü.social](https://bawü.social/@unifreiburg) - Univ. of Freiburg

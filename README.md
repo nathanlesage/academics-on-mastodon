@@ -123,6 +123,9 @@ This list includes only *official* university-affiliated accounts.
   - [@Radboud_uni@mastodon.social](https://mastodon.social/@Radboud_uni) - Radboud Univ.
   - [@Bibliothecaris@social.edu.nl](https://social.edu.nl/@Bibliothecaris) - Library at Univ. of Groningen
 
+- **Switzerland**
+  - [@SIB@mstdn.science](https://mstdn.science/@SIB) - SIB Swiss Institute of Bioinformatics
+
 - **United Kingdom**
   - [@uniofaberdeen@mastodon.scot](https://mastodon.scot/@uniofaberdeen) - Univ. of Aberdeen
   - [@plymuni@mastodonapp.uk](https://mastodonapp.uk/@plymuni) - Univ. of Plymouth

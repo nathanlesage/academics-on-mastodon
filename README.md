@@ -323,6 +323,8 @@ If you are in academia and do not know where to register your account in the fed
 ### General
 
 - [fediverse.party](https://fediverse.party/en/miscellaneous/) - A listing of software on the Fediverse with descriptions.
+- [jointhefediverse.net](https://jointhefediverse.net/) - An introduction to the Fediverse and its various platfoms.
+- [fediverseexplorations.org](https://fediverseexplorations.org/) - Studies, research papers, and informal polls that explore the Fediverse.
 
 ### Lemmy/Kbin
 

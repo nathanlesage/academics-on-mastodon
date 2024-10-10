@@ -265,7 +265,7 @@ If you are in academia and do not know where to register your account in the fed
 - [Clinicians Exchange](https://mastodon.clinicians-exchange.org/) - (For mental health professionals and the general public to exchange ideas, resources and expertise including but not limited to ethics, politics, practice building, and clinical issues; See [here](https://www.clinicians-exchange.org/) for more info.)
 - [Datasci.Social](https://datasci.social/) (For Human-Centric Data Science and Adjacent Topics)
 - [Design Lounge](https://designlounge.social/) (Middle and High-School Design Teacher Community)
-- [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digitital preservation)
+- [digipres](https://digipres.club/about) (digital galleries, libraries, archives, museums, and special collections, digital preservation)
 - [ecoevo.social](https://ecoevo.social) (biological ecology and evolution) 
 - [EconTwitter.net](https://econtwitter.net/explore) (Economics)
 - [EUPolicy.social](https://eupolicy.social/about)

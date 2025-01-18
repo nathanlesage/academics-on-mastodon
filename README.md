@@ -124,6 +124,9 @@ This list includes only *official* university-affiliated accounts.
   - [@Radboud_uni@mastodon.social](https://mastodon.social/@Radboud_uni) - Radboud Univ.
   - [@Bibliothecaris@social.edu.nl](https://social.edu.nl/@Bibliothecaris) - Library at Univ. of Groningen
 
+- **Spain**
+  - [@the_prbb@mastodont.cat](https://mastodont.cat/@the_prbb) - Barcelona Biomedical Research Park (PRBB)
+
 - **Switzerland**
   - [@SIB@mstdn.science](https://mstdn.science/@SIB) - SIB Swiss Institute of Bioinformatics
 

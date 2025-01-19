@@ -126,6 +126,7 @@ This list includes only *official* university-affiliated accounts.
 
 - **Spain**
   - [@the_prbb@mastodont.cat](https://mastodont.cat/@the_prbb) - Barcelona Biomedical Research Park (PRBB)
+  - [@ujiuniversitat@social.uji.es](https://social.uji.es/@ujiuniversitat) - Univ. Jaume I
 
 - **Switzerland**
   - [@SIB@mstdn.science](https://mstdn.science/@SIB) - SIB Swiss Institute of Bioinformatics

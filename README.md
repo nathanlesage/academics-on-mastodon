@@ -284,6 +284,7 @@ If you are in academia and do not know where to register your account in the fed
 - [glammr.us](https://glammr.us/about) (Galleries, libraries, archives, museums, and special collections, records, memory work)
 - [h-net.social](https://h-net.social/) (Humanities and Social Sciences scholars, hosted by H-Net)
 - [High Performance Computing](https://mast.hpc.social)
+- [higher-edu.social](https://higher-edu.social) (Higher Education, run by the Gesellschaft für Medien in der Wissenschaft and the Deutsche Gesellschaft für Hochschuldidaktik)
 - [Historians.Social](https://historians.social/)
 - [Human Computer Interaction](https://hci.social)
 - [Humanities Commons](https://hcommons.social)

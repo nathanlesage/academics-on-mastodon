@@ -124,6 +124,9 @@ This list includes only *official* university-affiliated accounts.
 - **Netherlands**
   - [@Radboud_uni@mastodon.social](https://mastodon.social/@Radboud_uni) - Radboud Univ.
   - [@Bibliothecaris@social.edu.nl](https://social.edu.nl/@Bibliothecaris) - Library at Univ. of Groningen
+  - [@vuamsterdam@social.edu.nl](https://social.edu.nl/@vuamsterdam) - Vrije Universiteit Amsterdam
+  - [@utrechtuniversity@akademienl.social](https://akademienl.social/@utrechtuniversity) - Utrecht University
+  - [@universityofgroningen@social.edu.nl](https://social.edu.nl/@universityofgroningen) - University of Groningen
 
 - **Spain**
   - [@the_prbb@mastodont.cat](https://mastodont.cat/@the_prbb) - Barcelona Biomedical Research Park (PRBB)
@@ -314,6 +317,7 @@ If you are in academia and do not know where to register your account in the fed
 - [ScienceMastodon.com](https://sciencemastodon.com/explore) (Science journalists and scientists)
 - [Sciences.Re](https://social.sciences.re/) (French-speaking Academics)
 - [Sigmoid.social](https://sigmoid.social/about) (Artificial Intelligence)
+- [Social.edu.nl](https://social.edu.nl/) (Server for the Dutch Higher Education institutes)
 - [sciences.social](https://sciences.social) (Social Sciences)
 - [science.social](https://science.social) (Science and Astronomy Mastodon Instance; not to be confused with sciences.social)
 - [SolarSystem.social](https://solarsystem.social) (For professionals working in the field of planetary science)

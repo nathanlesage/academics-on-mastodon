@@ -113,7 +113,7 @@ This list includes only *official* university-affiliated accounts.
   - [@unihohenheim@bawü.social](https://bawü.social/@unihohenheim) - Universität Hohenheim
   - [@tu_muenchen@wisskomm.social](https://wisskomm.social/@tu_muenchen) - Technical University of Munich
   - [@unibremen@wisskomm.social](https://wisskomm.social/@unibremen) - University of Bremen
-  - [@KIT_Karlsruhe@mastodon.social](https://mastodon.social/@KIT_Karlsruhe) - Karlsruhe Institute of Technology
+  - [@KIT_Karlsruhe@social.kit.edu](https://social.kit.edu/@KIT_Karlsruhe) - Karlsruhe Institute of Technology
   - [@pdi@mastodon.social](https://mastodon.social/@pdi) - Paul Drude Institute for Solid State Electronics (PDI)
   - [@UniOldenburg@wisskomm.social](https://wisskomm.social/@UniOldenburg) - Carl von Ossietzky University of Oldenburg
   - [@unigoettingen@academiccloud.social](https://academiccloud.social/@unigoettingen) - Georg-August-Universität Göttingen
